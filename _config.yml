@@ -1,8 +1,10 @@
 remote_theme: hydecorp/hydejack
 title: Welcome to Mohammadreza's website
-description: Please feel free to contact me!
 twitter_username: mmd_rezza
 github_username: mohammadreza-ebrahimi
+
+description: Please feel free to contact me!
+
 
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
