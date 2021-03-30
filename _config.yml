@@ -1,10 +1,10 @@
 remote_theme: hydecorp/hydejack
 title: Welcome to Mohammadreza's website
-#twitter_username: mmd_rezza
+twitter_username: mmd_rezza
 github_username: mohammadreza-ebrahimi
 
 description: Please feel free to contact me!
-
+ icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
