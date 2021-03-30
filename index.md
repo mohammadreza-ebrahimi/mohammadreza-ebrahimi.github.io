@@ -1,6 +1,4 @@
  _My personal website_
- 
- #### Welcome To Mohammadreza's Page. 
 
 [Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)
 
@@ -10,13 +8,13 @@ goes on it becomes increasingly evident that the rules which the mathematician f
 
  _Paul M. Dirac_
  
-___
+***
 
-
+ #### Welcome To Mohammadreza's Page  
 ### ABOUT ME  
 Hi, I'm Mohammadreza, I was born in 1995, April and now I'm 26. Master student of physics at [Isfahan University of Technology](https://english.iut.ac.ir) in [Isfahan](https://en.wikipedia.org/wiki/Isfahan), [Iran](https://en.wikipedia.org/wiki/Iran), under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I recieved my Bachelor's degree in **Molecular Physics** from [Semnan university](http://english.semnan.ac.ir/), [Semnan](https://en.wikipedia.org/wiki/Semnan), [Iran](https://en.wikipedia.org/wiki/Iran) in 2018. More precisely, my field of study is related to **Particle physics and quantum field theory**. 
 
-___
+***
 
 ### Research Interests  
 Unlike my major title, my research field scale is as large as universe scale. I am working on black hole, their thermodynamic behavior and cosmology. If we consider the thermodynamic variables as the space-time coordinates, it would be called _thermodynamic geometry_. My research is focused on thermodynamic geometry of black holes. In addition, I am interested in machine learning and generally, programming. Mixture of machine learning and physics could be so delicious, I recommend you taste it. 
