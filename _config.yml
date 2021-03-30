@@ -3,22 +3,8 @@ title: Welcome to Mohammadreza's website
 twitter_username: mmd_rezza
 github_username: mohammadreza-ebrahimi
 
-description: Please feel free to contact me!
-
-title: Experience
-  layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-
-
+description: Please feel free to contact me! Scroll right to know more about me.
+darkmode: True
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
