@@ -5,8 +5,8 @@ github_username: mohammadreza-ebrahimi
 
 description: Please feel free to contact me!
 
-  - title: Experience
-    layout: list
+title: Experience
+  layout: list
     content:
       - layout: right
         title: Company name
