@@ -1,3 +1,4 @@
+### _CURRICULUM VITAE_
 ***
 You can see my long CV [here]( )
 
@@ -18,13 +19,22 @@ You can see my long CV [here]( )
 - Linux/Unix
 - MacOS
 
+**Machine Learning**  
+- Scikit-learn
+- TensorFelow
+
+
 **Data Analyze**  
 - ***Python***
   - NumPy
   - Pandas
   - SciPy
 
-**Data V
+**Data Visualiziation**  
+- ***Python***  
+  - Matplotlib
+  - Seaborn
+- Mathematica
 
 
 
