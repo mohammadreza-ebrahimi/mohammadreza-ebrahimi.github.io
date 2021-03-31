@@ -2,13 +2,13 @@ remote_theme: hydecorp/hydejack
 name: Mohammadreza
 title: Welcome to Mohammadreza's website
 twitter_username: mmd_rezza
-#github_username: mohammadreza-ebrahimi
+github_username: mohammadreza-ebrahimi
 email: m.reza.ebrahimi1995@gmail.com
 #website: mohammadreza-ebrahimi.github.io
 
 
 accent_image: /img/colorful-wallpaper.png
-theme_color: rgb(10,100,200)
+
 description: Please feel free to contact me! Scroll left to know more about me.
 #darkmode: True
 #stackoverflow_username: "00000001"
@@ -22,3 +22,31 @@ description: Please feel free to contact me! Scroll left to know more about me.
 #youtube_username: jekyll
 #googleplus_username: +jekyll
 #orcid_username: 0000-0000-0000-0000
+
+
+hydejack:
+  post_addons:         [about, newsletter, related, random, comments]
+  project_addons:      [about, newsletter, other, comments]
+
+  no_mark_external:    true
+  no_push_state:       true
+  no_drawer:           true
+  no_navbar:           true
+  no_search:           true
+  no_inline_css:       true
+  no_page_style:       true
+  no_break_layout:     true
+  no_toc:              true
+  no_third_column:     true
+  no_large_headings:   true
+  no_structured_data:  true
+  no_theme_color:      true
+  no_breadcrumbs:      true
+  
+  
+    dark_mode:
+    always:            true
+    dynamic:           true
+    sunrise:           6
+    sunset:            18
+    icon:              true
