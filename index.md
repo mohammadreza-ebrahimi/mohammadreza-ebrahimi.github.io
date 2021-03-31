@@ -37,9 +37,7 @@ Unlike my major title, my research field scale is as large as universe scale. I 
 ### _CONTACT_
 
 
-|  IUT | r.ebrahimi@ph.iut.ac.ir   | 
-|---|---|
-|  Gmail |  m.reza.ebrahimi1995@gmail.com |  
-
+|  **IUT** | r.ebrahimi@ph.iut.ac.ir   | 
+|  **Gmail** |  m.reza.ebrahimi1995@gmail.com | 
 
 
