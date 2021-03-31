@@ -12,16 +12,18 @@ You can see my long CV [here]( )
 - Mathematica/xAct/diffgeo
 - Maple
 - Matlab
+- Notebook: Jupyter-notebook
+- HTML & Markdown 
 
 
 **Operating System**  
-- Windows
 - Linux/Unix
+- Windows
 - MacOS
 
 **Machine Learning**  
 - Scikit-learn
-- TensorFelow
+- TensorFlow
 
 
 **Data Analyze**  
@@ -34,7 +36,9 @@ You can see my long CV [here]( )
 - ***Python***  
   - Matplotlib
   - Seaborn
+- Maple
 - Mathematica
+
 
 
 
