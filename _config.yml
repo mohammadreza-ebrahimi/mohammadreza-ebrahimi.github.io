@@ -1,6 +1,6 @@
 remote_theme: hydecorp/hydejack
 name: Mohammadreza
-title: Welcome to Mohammadreza's website
+title: Welcome to Mohammadreza's personal website
 twitter_username: mmd_rezza
 github_username: mohammadreza-ebrahimi
 email: m.reza.ebrahimi1995@gmail.com
@@ -9,17 +9,5 @@ email: m.reza.ebrahimi1995@gmail.com
 
 accent_image: /img/colorful-wallpaper.png
 
-description: Please feel free to contact me! Scroll left to know more about me.
-darkmode: True
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+description: Please feel free to contact me and just click on email icon! Scroll left to know more about me.
 
