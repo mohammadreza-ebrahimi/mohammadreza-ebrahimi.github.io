@@ -20,6 +20,6 @@ Unlike my major title, my research field scale is as large as universe scale. I 
 
 
 ### _CURRICULUM VITAE_  
-My CV, publications and skills can be found in [this page](cv.md).
+My CV, publications and skills can be found in [this page](CV.md).
 
  
