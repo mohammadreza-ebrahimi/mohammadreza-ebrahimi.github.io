@@ -42,11 +42,9 @@ hydejack:
   no_structured_data:  true
   no_theme_color:      true
   no_breadcrumbs:      true
-  
-  
-    dark_mode:
-    always:            true
-    dynamic:           true
-    sunrise:           6
-    sunset:            18
-    icon:              true
+  dark_mode:
+   always:            true
+   dynamic:           true
+   sunrise:           6
+   sunset:            18
+   icon:              true
