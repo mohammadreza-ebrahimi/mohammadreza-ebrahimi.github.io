@@ -16,12 +16,7 @@ You can see my long CV [here]( )
 - HTML & Markdown 
 
 
-**Operating System**  
-- Linux/Unix
-- Windows
-- MacOS
-
-**Machine Learning**  
+**Machine Learning & Deep Learning**  
 - Scikit-learn
 - TensorFlow
 
@@ -32,6 +27,7 @@ You can see my long CV [here]( )
   - Pandas
   - SciPy
 
+
 **Data Visualiziation**  
 - ***Python***  
   - Matplotlib
@@ -40,6 +36,12 @@ You can see my long CV [here]( )
 - Mathematica
 
 
+**Version Control Systems (VCS)***  
+- Git
+- GitHub
 
 
-
+**Operating System**  
+- Linux/Unix
+- Windows
+- MacOS
