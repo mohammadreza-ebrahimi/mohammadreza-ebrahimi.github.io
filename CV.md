@@ -1,6 +1,6 @@
 ### _CURRICULUM VITAE_
 ***
-You can see my long CV [here]( )
+You can see my long CV [here]()
 
 ### _SKILLS_
 
@@ -36,7 +36,7 @@ You can see my long CV [here]( )
 - Mathematica
 
 
-**Version Control Systems (VCS)***  
+**Version Control Systems (VCS)**  
 - Git
 - GitHub
 
