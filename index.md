@@ -15,7 +15,7 @@ Hi, I'm Mohammadreza, I was born in April 1995, and now I'm 26. Master student o
 
 ***
 ### _CURRICULUM VITAE_  
-My CV, publications and skills can be found in [this page](CV.md)
+My CV, publications and skills can be found in [_this page_](CV.md)
 
 
 ### _RESEARCH INTERESTS_  
@@ -32,7 +32,7 @@ Unlike my major title, my research field scale is as large as universe scale. I 
   - [Introduction to Elementary Particles](https://www.amazon.com/Introduction-Elementary-Particles-David-Griffiths/dp/3527406018) by _David Griffiths_
   - [Modern Particle Physics](https://www.amazon.com/Modern-Particle-Physics-Mark-Thomson/dp/1107034264) by _Mark Thomson_  
  
-- But after all, the best reference in order to start researching, is [***arXiv.org***](https://arXiv.org)
+- But after all, the best reference in order to start researching, is [_arXiv.org_](https://arXiv.org)
 
 ### _CONTACT_
 
