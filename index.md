@@ -10,15 +10,15 @@ goes on it becomes increasingly evident that the rules which the mathematician f
  
 ***
 
-#### ABOUT ME 
+### ABOUT ME 
 Hi, I'm Mohammadreza, I was born in April 1995, and now I'm 26. Master student of physics at [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I recieved my Bachelor's degree in **Molecular Physics** from [Semnan university](http://english.semnan.ac.ir/), Semnan, Iran, in 2018. More precisely, my field of study is related to **Particle physics and quantum field theory**. 
 
 ***
-#### CURRICULUM VITAE  
+### CURRICULUM VITAE  
 My CV, publications and skills can be found in [_this page_](CV.md)
 
 ***
-#### RESEARCH INTERESTS  
+### RESEARCH INTERESTS  
 - Black holes and black holes thermodynamic
 - Machine learning and Data analysis
 - Cosmology
@@ -39,7 +39,7 @@ My CV, publications and skills can be found in [_this page_](CV.md)
  
 - But after all, the best reference in order to start researching, is [_arXiv.org_](https://arXiv.org)
 
-#### CONTACT
+### CONTACT
 
 
 |  **IUT** | r.ebrahimi@ph.iut.ac.ir   | 
