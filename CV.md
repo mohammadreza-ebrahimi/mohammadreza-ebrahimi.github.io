@@ -2,15 +2,32 @@
 ***
 You can see my long CV [_here_]()
 
-### _SKILLS_
+### SKILLS_
+
 
 **Programming** 
-- Python
+- _Python_
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - sympy
+  - einsteinpy
+  - gravipy
 - Object Oriented Programming
 - C/C++
 - Shell & Bash scripting
-- Mathematica/xAct/diffgeo
-- Maple
+- _Mathematica_
+  - xAct
+  - diffgeo
+  - quantum
+  - GR
+  - thermodynamic
+- _Maple_
+  - GRtensor 
 - Matlab
 - Notebook: Jupyter-notebook
 - HTML & Markdown 
@@ -36,9 +53,9 @@ You can see my long CV [_here_]()
 **Data Visualiziation**  
 - ***Python***  
   - Matplotlib
-  > Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. There is also a procedural "pylab" interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.SciPy makes use of Matplotlib. 
+  > A plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. There is also a procedural "pylab" interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.SciPy makes use of Matplotlib. 
   - Seaborn
-  > Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. 
+  > A Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. 
 - Maple
 - Mathematica
 
