@@ -1,12 +1,12 @@
 ### _CURRICULUM VITAE_
 ***
-You can see my long CV [_here_]()
+You can download my long CV [_here_]()
 
-### SKILLS_
+### SKILLS
 
 
 **Programming** 
-- _Python_
+- ***Python***
   - numpy
   - scipy
   - matplotlib
@@ -20,13 +20,13 @@ You can see my long CV [_here_]()
 - Object Oriented Programming
 - C/C++
 - Shell & Bash scripting
-- _Mathematica_
+- ***Mathematica***
   - xAct
   - diffgeo
   - quantum
   - GR
   - thermodynamic
-- _Maple_
+- ***Maple***
   - GRtensor 
 - Matlab
 - Notebook: Jupyter-notebook
@@ -67,5 +67,5 @@ You can see my long CV [_here_]()
 
 **Operating System**  
 - Linux/Unix
-- Windows
 - MacOS
+- Windows
