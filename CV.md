@@ -1,6 +1,6 @@
 ### _CURRICULUM VITAE_
 ***
-You can download my long CV [_here_]()
+[Long CV](https://github.com/mohammadreza-ebrahimi/mohammadreza-ebrahimi.github.io/blob/main/cv/long%20cv.pdf)
 
 ### SKILLS
 
