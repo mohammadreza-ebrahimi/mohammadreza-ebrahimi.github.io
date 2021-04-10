@@ -32,7 +32,7 @@
 - Notebook: Jupyter-notebook
 - HTML & Markdown 
 
-Some primary information on Machine Learning (ML) can be found [here](ML.md).
+Some primary information on Machine Learning (ML) can be found [here](ML.html).
 
 **Machine Learning & Deep Learning**
 - Scikit-learn
