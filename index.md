@@ -44,7 +44,7 @@ My CV, publications and skills can be found in [_this page_](CV.md)
 |  **Gmail** |  m.reza.ebrahimi1995@gmail.com | 
 
 ### Website
-[personal website](website/templatemo_535_softy_pinko/index.html)
+[personal website](website/index.html)
 
 
 
