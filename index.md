@@ -13,7 +13,7 @@ Hi, I'm Mohammadreza, I was born in April 1995, and now I'm 26. Master student o
 
 ***
 ### CURRICULUM VITAE  
-My CV, publications and skills can be found in [_this page_](CV.md)
+My CV, publications and skills can be found in [this page](CV.md)
 
 ***
 ### RESEARCH INTERESTS  
@@ -42,7 +42,4 @@ My CV, publications and skills can be found in [_this page_](CV.md)
 
 |  **IUT** | r.ebrahimi@ph.iut.ac.ir   | 
 |  **Gmail** |  m.reza.ebrahimi1995@gmail.com | 
-
-
-### Personal [website](website/index.html)
 
