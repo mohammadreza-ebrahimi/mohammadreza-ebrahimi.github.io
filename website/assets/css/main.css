@@ -739,23 +739,23 @@ input, select, textarea {
 						.row.gtr-uniform > * {
 							padding-top: 2em;
 						}
+			
+	         	        .row.gtr-150 {
+		        	       margin-top: 0;
+			               margin-left: -3em;
+		                }
 
-				.row.gtr-150 {
-					margin-top: 0;
-					margin-left: -3em;
-				}
+			                .row.gtr-150 > * {
+				                padding: 0 0 0 3em;
+			                }
 
-					.row.gtr-150 > * {
-						padding: 0 0 0 3em;
-					}
+			               .row.gtr-150.gtr-uniform {
+				               margin-top: -3em;
+		                   	}
 
-					.row.gtr-150.gtr-uniform {
-						margin-top: -3em;
-					}
-
-						.row.gtr-150.gtr-uniform > * {
-							padding-top: 3em;
-						}
+			         	.row.gtr-150.gtr-uniform > * {
+				             	padding-top: 3em;
+			        	}
 
 				.row.gtr-200 {
 					margin-top: 0;
