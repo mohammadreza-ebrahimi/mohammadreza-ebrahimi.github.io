@@ -13,7 +13,7 @@ Hi, I'm Mohammadreza, I was born in April 1995, and now I'm 26. Master student o
 
 ***
 ### CURRICULUM VITAE  
-My CV and skills can be found in [this page](CV.md)
+You can find my CV and skills in [this page](CV.md)
 
 ***
 ### RESEARCH INTERESTS  
@@ -29,6 +29,26 @@ Unlike my major title, my research field scale is as large as universe scale. I 
 ### PUBLICATIONS
 After publishing in journals, I would complete this part, now it is private.
 
+***
+### RESEARCH EXPERIENCES  
+- Investigated 1D-Ising model to minimize RMSE for predicting
+the spins interactions in machine learning 
+  - [https://github.com/mohammadreza-ebrahimi/1D-Ising-model](github.com/mohammadreza-ebrahimi/1D-Ising-model)
+- Reviewed CERN Electron Collision data to predict the electron mass  in machine learning  
+  - [https://github.com/mohammadreza-ebrahimi/CERN-collision-data](github.com/mohammadreza-ebrahimi/CERN-collision-data)  
+- Reviewed 270 data to predict of the $G_0W_0$  band-gaps  by developing regression model in machine learning  
+  - [https://github.com/mohammadreza-ebrahimi/band-gap](github.com/mohammadreza-ebrahimi/band-gap)
+- Developed a program in **xAct** to derive 5 and 4-dimensional Schwarzschild ans BTZ black hole solution  
+  - [https://github.com/mohammadreza-ebrahimi/Schwarzschild-xAct](github.com/mohammadreza-ebrahimi/Schwarzschild-xAct)
+ - Analyzed higher dimension rotating black holes solution  by novel \hfill{2020}\\ theory of deriving rotational black holes metric
+ - Examined holographic equipartition  in Binachi Type I cosmology
+
+***
+### Teaching Experience
+- Lectured xAct, diffgeo and grTensor package for researcher in 4 sessions. 
+  - [https://meet.iut.ac.ir/b/beh-y1s-fic-kqy](IUT-MEET)
+- Guided Mathematica and MAPLE for  3 general relativity projects
+- English language, physics and  mathematics
 
 #### RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS
 
@@ -41,7 +61,7 @@ After publishing in journals, I would complete this part, now it is private.
   - [Introduction to Elementary Particles](https://www.amazon.com/Introduction-Elementary-Particles-David-Griffiths/dp/3527406018) by _David Griffiths_
   - [Modern Particle Physics](https://www.amazon.com/Modern-Particle-Physics-Mark-Thomson/dp/1107034264) by _Mark Thomson_  
  
-- But after all, the best reference in order to start researching, is [_arXiv.org_](https://arXiv.org)
+- But after all, the best reference in order to start researching, is [arXiv.org](https://arXiv.org)
 
 ### CONTACT
 
