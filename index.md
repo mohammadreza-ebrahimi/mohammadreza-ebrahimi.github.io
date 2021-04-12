@@ -9,11 +9,10 @@ goes on it becomes increasingly evident that the rules which the mathematician f
 ***
 
 ### ABOUT ME 
-Hi, I'm Mohammadreza, I was born in April 1995, and now I'm 26. Master student of physics at [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I recieved my Bachelor's degree in **Molecular Physics** from [Semnan university](http://english.semnan.ac.ir/), Semnan, Iran, in 2018. More precisely, my field of study is related to **Particle physics and quantum field theory**. 
-
+Hi, I'm Mohammadreza, I was born in April 1995, and now I'm 26. Master student of **Particle physics and quantum field theory** at [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I am the **1st** ranked student amonge graduating class with GPA of 3.72/4.00. My thesis consists of two main part; black holes and cosmology. In the first part, I investigated black holes thermodynamic behavior and geometry, in the second one, I have focused on anisotropic cosmology. I recieved my Bachelor's degree in **Molecular Physics** from [Semnan university](http://english.semnan.ac.ir/), Semnan, Iran, in 2018.
 ***
 ### CURRICULUM VITAE  
-My CV, publications and skills can be found in [this page](CV.md)
+My CV and skills can be found in [this page](CV.md)
 
 ***
 ### RESEARCH INTERESTS  
@@ -21,8 +20,13 @@ My CV, publications and skills can be found in [this page](CV.md)
 - Machine learning and Data analysis
 - Cosmology
 
-  - ##### BRIEF EXPLANATION ON RESEARCHES  
-  Unlike my major title, my research field scale is as large as universe scale. I am working on black hole, their thermodynamic behavior and cosmology. If we  consider the thermodynamic variables as the space-time coordinates, it would be called _thermodynamic geometry_. My research is focused on thermodynamic geometry of black holes. It goes without saying I also have experience in cosmology, most of theoretical cosmologist are working on [standard model of cosmology](https://www.intechopen.com/books/redefining-standard-model-cosmology/introductory-chapter-standard-model-of-cosmology) where we assume that universe behaves just like [**Friedmann-Roberston-Walker (FRW)**](https://en.wikipedia.org/wiki/Friedmann–Lemaître–Robertson–Walker_metric) metric, but I consider that the universe does not follow the FRW metric that requires the univers to be homogeniouse and isotropy, therefore there would be another metric representation so-called **Bianchi type I** universe. In addition, I am interested in machine larning and generally, programming. You can see my portfolios in my [GitHub page](https://github.com/mohammadreza-ebrahimi). Mixture of machine learning and physics could be so delicious, I recommend you taste it. 
+##### BRIEF EXPLANATION ON RESEARCHES  
+Unlike my major title, my research field scale is as large as universe scale. I am working on black hole, their thermodynamic behavior and cosmology. If we  consider the thermodynamic variables as the space-time coordinates, it would be called _thermodynamic geometry_. My research is focused on thermodynamic geometry of black holes. It goes without saying I also have experience in cosmology, most of theoretical cosmologist are working on [standard model of cosmology](https://www.intechopen.com/books/redefining-standard-model-cosmology/introductory-chapter-standard-model-of-cosmology) where we assume that universe behaves just like [**Friedmann-Roberston-Walker (FRW)**](https://en.wikipedia.org/wiki/Friedmann–Lemaître–Robertson–Walker_metric) metric, but I consider that the universe does not follow the FRW metric that requires the univers to be homogeniouse and isotropy, therefore there would be another metric representation so-called **Bianchi type I** universe. In addition, I am interested in machine larning and generally, programming. You can see my portfolios in my [GitHub page](https://github.com/mohammadreza-ebrahimi). Mixture of machine learning and physics could be so delicious, I recommend you taste it. 
+
+***
+### PUBLICATIONS
+After publishing in journals, I would complete this part, now it is private.
+
 
 #### RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS
 
