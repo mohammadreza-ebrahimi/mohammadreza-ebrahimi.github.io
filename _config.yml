@@ -1,4 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-remote_theme: rohanchandra/type-theme
+remote_theme: hydecorp/hydejack
+title: Welcome to Mohammadreza's website.
+decription: Please fill free to contact me.
+
