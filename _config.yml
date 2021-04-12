@@ -1,7 +1,7 @@
-# The Site Configuration
-
-# Import the theme
 remote_theme: hydecorp/hydejack
 title: Welcome to Mohammadreza's website.
-decription: Please fill free to contact me.
+description: Please feel free to contact me. Scroll left to know more about me!
+accent_image:          img/colorful-wallpaper.png 
+accent_color:          rgb(55,160,190)
+theme_color:           rgb(10,50,90)
 
