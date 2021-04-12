@@ -33,20 +33,20 @@ After publishing in journals, I would complete this part, now it is private.
 ### RESEARCH EXPERIENCES  
 - Investigated 1D-Ising model to minimize RMSE for predicting
 the spins interactions in **machine learning** 
-  - [https://github.com/mohammadreza-ebrahimi/1D-Ising-model](github.com/mohammadreza-ebrahimi/1D-Ising-model)
+  - [github.com/mohammadreza-ebrahimi/1D-Ising-model](https://github.com/mohammadreza-ebrahimi/1D-Ising-model)
 - Reviewed CERN Electron Collision data to predict the electron mass  in **machine learning**  
-  - [https://github.com/mohammadreza-ebrahimi/CERN-collision-data](github.com/mohammadreza-ebrahimi/CERN-collision-data)  
+  - [github.com/mohammadreza-ebrahimi/CERN-collision-data](https://github.com/mohammadreza-ebrahimi/CERN-collision-data)
 - Reviewed 270 data to predict of the G0W0 band-gaps  by developing regression model in **machine learning** 
-  - [https://github.com/mohammadreza-ebrahimi/band-gap](github.com/mohammadreza-ebrahimi/band-gap)
+  - [github.com/mohammadreza-ebrahimi/band-gap](https://github.com/mohammadreza-ebrahimi/band-gap)
 - Developed a program in **xAct** to derive 5 and 4-dimensional Schwarzschild ans BTZ black hole solution  
-  - [https://github.com/mohammadreza-ebrahimi/Schwarzschild-xAct](github.com/mohammadreza-ebrahimi/Schwarzschild-xAct)
+  - [github.com/mohammadreza-ebrahimi/Schwarzschild-xAct](https://github.com/mohammadreza-ebrahimi/Schwarzschild-xAct)
  - Analyzed higher dimension rotating black holes solution  by novel theory of deriving rotational black holes metric
  - Examined holographic equipartition  in Binachi Type I cosmology
 
 ***
 ### Teaching Experience
 - Lectured xAct, diffgeo and grTensor package for researcher in 4 sessions. 
-  - [https://meet.iut.ac.ir/b/beh-y1s-fic-kqy](IUT-MEET)
+  - [IUT-MEET](https://meet.iut.ac.ir/b/beh-y1s-fic-kqy)
 - Guided Mathematica and MAPLE for  3 general relativity projects
 - English language, physics and  mathematics
 
