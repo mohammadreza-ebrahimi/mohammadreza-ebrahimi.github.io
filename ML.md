@@ -26,8 +26,8 @@ When we are talking about learning, we mean that it may concern with learning to
 
 ### _Supervised Learning_ 
 In supervised learning, the training data you feed to the algorithm includes the desired solutions, called labels (as the email figure).
-  - **Classification*  
-A typical supervised learning task is **classification**. The spam filter is a good example of this: it is trained
+  - **Classification**  
+A typical supervised learning task is classification. The spam filter is a good example of this: it is trained
 with many example emails along with their class (spam or ham), and it must learn how to classify new
 emails. The labels (target) could be binary (like spam or not) and also multi class. Some other example of binary are: `True` or `False`, `1` or `0`, `yes` or `No`. 
   - **Regression**  
@@ -66,4 +66,18 @@ Here are some of the most important unsupervised learning algorithms
 - **Association rule learning**
   - Apriori
   - Eclat
+***
+### _Reinforcement Learning_
+Reinforcement Learning is a very different beast. The learning system, called an agent in this context,
+can observe the environment, select and perform actions, and get rewards in return (or penalties in the
+form of negative rewards). It must then learn by itself what is the best strategy, called a
+policy, to get the most reward over time. A policy defines what action the agent should choose when it is
+in a given situation. As an example see the following figure <a title="Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017)"><sup>1,2</sup></a>
 
+![4](img/4.png)
+
+For example, many robots implement Reinforcement Learning algorithms to learn how to walk.
+DeepMind’s AlphaGo program is also a good example of Reinforcement Learning: it made the headlines
+in March 2016 when it beat the world champion Lee Sedol at the game of Go. It learned its winning
+policy by analyzing millions of games, and then playing many games against itself. Note that learning was
+turned off during the games against the champion; AlphaGo was just applying the policy it had learned<sup>2</sup></a>.
