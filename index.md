@@ -42,7 +42,7 @@ Unlike my major title, my research field scale is as large as universe scale. I 
   - [github.com/mohammadreza-ebrahimi/CERN-collision-data](https://github.com/mohammadreza-ebrahimi/CERN-collision-data)
 - <font color='darkblue'>Reviewed 270 data to predict of the G0W0 band-gaps  by developing regression model in machine learning</font> 
   - [github.com/mohammadreza-ebrahimi/band-gap](https://github.com/mohammadreza-ebrahimi/band-gap)
-- <font color='darkblue'>Developed a program in **xAct** to derive 5 and 4-dimensional Schwarzschild ans BTZ black hole solution</font>  
+- <font color='darkblue'>Developed a program in xAct to derive 5 and 4-dimensional Schwarzschild ans BTZ black hole solution</font>  
   - [github.com/mohammadreza-ebrahimi/Schwarzschild-xAct](https://github.com/mohammadreza-ebrahimi/Schwarzschild-xAct)
  - <font color='darkblue'>Analyzed higher dimension rotating black holes solution  by novel theory of deriving rotational black holes metric</font>
  - <font color='darkblue'>Examined holographic equipartition  in Binachi Type I cosmology</font>
@@ -59,7 +59,7 @@ Unlike my major title, my research field scale is as large as universe scale. I 
 Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019
 - Mohammadreza Ebrahimi, <font color='darkblue'>Mind Effects on Matter</font>  
 Prof. Mehrdad Ghomi Nejad,Semnan University, Fall 2016
-- Mohammadreza Ebrahimi, <font color='darkblue>Developed and implemented a random number creatorfor investigating experimental mind effects</font>
+- Mohammadreza Ebrahimi, <font color='darkblue'>Developed and implemented a random number creatorfor investigating experimental mind effects</font>
 Prof. Mehrdad Ghomi Nejad, SemnanUniversity, Fall 2016
 
 #### RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS
