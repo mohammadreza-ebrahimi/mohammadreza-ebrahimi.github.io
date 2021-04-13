@@ -1,6 +1,5 @@
 <html>
-<body style="background-color: red">
-<p> This web page has a red background color! </p>
+<body style="background-color: darkblue">
 </body>
 </html>
 [Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)
