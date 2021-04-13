@@ -66,6 +66,8 @@ Here are some of the most important unsupervised learning algorithms
 - **Association rule learning**
   - Apriori
   - Eclat
+
+
 ***  
 ### _Reinforcement Learning_
 Reinforcement Learning is a very different beast. The learning system, called an agent in this context,
@@ -80,11 +82,11 @@ For example, many robots implement Reinforcement Learning algorithms to learn ho
 DeepMind’s AlphaGo program is also a good example of Reinforcement Learning: it made the headlines
 in March 2016 when it beat the world champion Lee Sedol at the game of Go. It learned its winning
 policy by analyzing millions of games, and then playing many games against itself. Note that learning was
-turned off during the games against the champion; AlphaGo was just applying the policy it had learned <sup>1</sup>.
+turned off during the games against the champion; AlphaGo was just applying the policy it had learned <sup>1</sup>.         
 
 
 
 
 
 
-<sup>1</sup>. <p style="font-size:12px">Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017)</p>
+<sup>1</sup>. <font color='gray'>Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017)</font>
