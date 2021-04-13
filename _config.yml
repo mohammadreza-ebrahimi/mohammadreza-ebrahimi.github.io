@@ -1,6 +1,5 @@
 remote_theme: hydecorp/hydejack
-title: WELCOME TO MOHAMMADREZA'S PERSONAL WEBSITE
-#Welcome to Mohammadreza's personal website.
+title: Welcome to Mohammadreza's personal website.
 description: Here you would know about me,  Physics and Machine Learning. Please feel free to contact me. Just Scroll left!
 accent_image:          img/darkblue.jpg  
 accent_color:          rgb(55,160,190)
@@ -9,3 +8,4 @@ github: https://github.com/mohammadreza-ebrahimi
 twitter: https://twitter.com/Mmdreza31485974
 email: mailto:m.reza.ebrahimi1995@gmail.com
 website: https://mohammadreza-ebrahimi.github.io
+telegram: ???
