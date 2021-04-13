@@ -1,5 +1,5 @@
 <html>
-<body style="background-color: darkblue">
+<body style="background-color: white">
 </body>
 </html>
 [Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)
