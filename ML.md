@@ -25,7 +25,7 @@ When we are talking about learning, we mean that it may concern with learning to
 - **Reinforcement Learning**
 
 ### _Supervised Learning_ 
-In supervised learning, the training data you feed to the algorithm includes the desired solutions, called labels (as the email figure).
+In supervised learning, the training data you feed to the algorithm includes the desired solutions, called labels (as the email figure <sup>1</sup>).
   - **Classification**  
 A typical supervised learning task is classification. The spam filter is a good example of this: it is trained
 with many example emails along with their class (spam or ham), and it must learn how to classify new
@@ -66,13 +66,13 @@ Here are some of the most important unsupervised learning algorithms
 - **Association rule learning**
   - Apriori
   - Eclat
-***
+***  
 ### _Reinforcement Learning_
 Reinforcement Learning is a very different beast. The learning system, called an agent in this context,
 can observe the environment, select and perform actions, and get rewards in return (or penalties in the
 form of negative rewards). It must then learn by itself what is the best strategy, called a
 policy, to get the most reward over time. A policy defines what action the agent should choose when it is
-in a given situation. As an example see the following figure <a title="Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017)"><sup>1,2</sup></a>
+in a given situation. As an example see the following figure <sup>1</sup>
 
 ![4](img/4.png)
 
@@ -80,4 +80,11 @@ For example, many robots implement Reinforcement Learning algorithms to learn ho
 DeepMind’s AlphaGo program is also a good example of Reinforcement Learning: it made the headlines
 in March 2016 when it beat the world champion Lee Sedol at the game of Go. It learned its winning
 policy by analyzing millions of games, and then playing many games against itself. Note that learning was
-turned off during the games against the champion; AlphaGo was just applying the policy it had learned<sup>2</sup></a>.
+turned off during the games against the champion; AlphaGo was just applying the policy it had learned <sup>1</sup>.
+
+
+
+
+
+
+<sup>1</sup>. <p style="font-size:12px">Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017)</p>
