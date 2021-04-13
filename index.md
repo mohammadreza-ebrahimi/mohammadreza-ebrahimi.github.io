@@ -48,11 +48,19 @@ Unlike my major title, my research field scale is as large as universe scale. I 
  - <font color='darkblue'>Examined holographic equipartition  in Binachi Type I cosmology</font>
 
 ***
-### Teaching Experience
+### TEACHING EXPERIENCES
 - Lectured xAct, diffgeo and grTensor package for researcher in 4 sessions. 
   - [IUT-MEET](https://meet.iut.ac.ir/b/beh-y1s-fic-kqy)
 - Guided Mathematica and MAPLE for  3 general relativity projects
 - English language, physics and  mathematics
+
+### ACADEMIC PROJECTS
+- Mohammadreza Ebrahimi, <font color='darkblue'>Holographic Equipartition and Friedman Equations</font>  
+Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019
+- Mohammadreza Ebrahimi, <font color='darkblue'>Mind Effects on Matter</font>  
+Prof. Mehrdad Ghomi Nejad,Semnan University, Fall 2016
+- Mohammadreza Ebrahimi, <font color='darkblue>Developed and implemented a random number creatorfor investigating experimental mind effects</font>
+Prof. Mehrdad Ghomi Nejad, SemnanUniversity, Fall 2016
 
 #### RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS
 
