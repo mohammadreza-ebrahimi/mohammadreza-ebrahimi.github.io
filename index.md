@@ -7,7 +7,7 @@ goes on it becomes increasingly evident that the rules which the mathematician f
  _Paul M. Dirac_
  
 ***
-**Mohammadreza** <font color='gray'>Ebrahimi Khuzani</font>
+<h1>Mohammadreza</h1> <font color='gray'>Ebrahimi Khuzani</font>
 
 ### ABOUT ME 
 My name is Mohammadreza Ebrahimi, I was born in April 1995, and now I'm 26. Master student of <font color='darkblue'>Particle physics and quantum field theory</font> at [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I am the **1st** ranked student amonge graduating class with GPA of 3.72/4.00. My thesis consists of two main part; black holes and cosmology. In the first part, I investigated black holes thermodynamic behavior and geometry, in the second one, I have focused on anisotropic cosmology. I recieved my Bachelor's degree in **Molecular Physics** from [Semnan university](http://english.semnan.ac.ir/), Semnan, Iran, in 2018.  
