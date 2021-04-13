@@ -59,7 +59,7 @@ Unlike my major title, my research field scale is as large as universe scale. I 
 Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019
 - Mohammadreza Ebrahimi, <font color='darkblue'>Mind Effects on Matter</font>  
 Prof. Mehrdad Ghomi Nejad,Semnan University, Fall 2016
-- Mohammadreza Ebrahimi, <font color='darkblue'>Developed and implemented a random number creatorfor investigating experimental mind effects</font>
+- Mohammadreza Ebrahimi, <font color='darkblue'>Developed and implemented a random number creatorfor investigating experimental mind effects</font>  
 Prof. Mehrdad Ghomi Nejad, SemnanUniversity, Fall 2016
 
 #### RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS
