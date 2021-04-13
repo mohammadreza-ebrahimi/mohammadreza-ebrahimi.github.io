@@ -1,4 +1,4 @@
-<body style='background-color:blue'</body>
+<body style="background-color:blue"</body>
 [Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)
 
 
@@ -29,7 +29,7 @@ Unlike my major title, my research field scale is as large as universe scale. I 
 
 ***
 ### PUBLICATIONS
-<font color='blue'>After publishing in journals, I would complete this part, now it is private</font>.
+<font color='darkblue'>After publishing in journals, I would complete this part, now it is private</font>.
 
 ***
 ### RESEARCH EXPERIENCES  
