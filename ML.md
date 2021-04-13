@@ -63,7 +63,7 @@ Here are some of the most important unsupervised learning algorithms
   - Locally-Linear Embedding (LLE)
   - t-distributed Stochastic Neighbor Embedding (t-SNE)
 
--**Association rule learning**
+- **Association rule learning**
   - Apriori
   - Eclat
 
