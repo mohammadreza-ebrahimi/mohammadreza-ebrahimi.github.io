@@ -89,4 +89,4 @@ turned off during the games against the champion; AlphaGo was just applying the 
 
 
 
-<sup>1</sup>. <font color='gray'>Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017)</font>
+[1]. <font color='gray'>Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017)</font>
