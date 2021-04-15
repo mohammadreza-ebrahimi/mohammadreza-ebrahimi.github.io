@@ -20,10 +20,10 @@ My name is Mohammadreza Ebrahimi, I was born in April 1995, and now I'm 26. Mast
 You can find my CV and skills in [this page](CV.md)
 
 ***
-### RESEARCH INTERESTS  
-- <font color='darkblue'>Black holes and black holes thermodynamic</font>
-- <font color='darkblue'>Machine learning and Data analysis</font>
-- <font color='darkblue'>Cosmology</font>  
+### <font color='darkblue'>RESEARCH INTERESTS</font> 
+- Black holes and black holes thermodynamic
+- Machine learning and Data analysis
+- Cosmology  
 
 ***
 ##### BRIEF EXPLANATION ON RESEARCHES  
@@ -34,17 +34,17 @@ Unlike my major title, my research field scale is as large as universe scale. I 
 <font color='darkblue'>After publishing in journals, I would complete this part, now it is private</font>.
 
 ***
-### RESEARCH EXPERIENCES  
-- <font color='darkblue'>Investigated 1D-Ising model to minimize RMSE for predicting the spins interactions in machine learning</font>
+### <font color='darkblue'>RESEARCH EXPERIENCES</font> 
+- Investigated 1D-Ising model to minimize RMSE for predicting the spins interactions in machine learning
   - [github.com/mohammadreza-ebrahimi/1D-Ising-model](https://github.com/mohammadreza-ebrahimi/1D-Ising-model)
-- <font color='darkblue'>Reviewed CERN Electron Collision data to predict the electron mass  in machine learning</font>  
+- Reviewed CERN Electron Collision data to predict the electron mass  in machine learning 
   - [github.com/mohammadreza-ebrahimi/CERN-collision-data](https://github.com/mohammadreza-ebrahimi/CERN-collision-data)
-- <font color='darkblue'>Reviewed 270 data to predict of the G0W0 band-gaps  by developing regression model in machine learning</font> 
+- Reviewed 270 data to predict of the G0W0 band-gaps  by developing regression model in machine learning
   - [github.com/mohammadreza-ebrahimi/band-gap](https://github.com/mohammadreza-ebrahimi/band-gap)
-- <font color='darkblue'>Developed a program in xAct to derive 5 and 4-dimensional Schwarzschild ans BTZ black hole solution</font>  
+- Developed a program in xAct to derive 5 and 4-dimensional Schwarzschild ans BTZ black hole solution
   - [github.com/mohammadreza-ebrahimi/Schwarzschild-xAct](https://github.com/mohammadreza-ebrahimi/Schwarzschild-xAct)
- - <font color='darkblue'>Analyzed higher dimension rotating black holes solution  by novel theory of deriving rotational black holes metric</font>
- - <font color='darkblue'>Examined holographic equipartition  in Binachi Type I cosmology</font>
+ - Analyzed higher dimension rotating black holes solution  by novel theory of deriving rotational black holes metric
+ - Examined holographic equipartition  in Binachi Type I cosmology
 
 ***
 ### TEACHING EXPERIENCES
@@ -54,11 +54,11 @@ Unlike my major title, my research field scale is as large as universe scale. I 
 - English language, physics and  mathematics
 
 ### ACADEMIC PROJECTS
-- Mohammadreza Ebrahimi, <font color='darkblue'>Holographic Equipartition and Friedman Equations</font>  
+- Mohammadreza Ebrahimi, Holographic Equipartition and Friedman Equations  
 Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019
-- Mohammadreza Ebrahimi, <font color='darkblue'>Mind Effects on Matter</font>  
+- Mohammadreza Ebrahimi, Mind Effects on Matter  
 Prof. Mehrdad Ghomi Nejad,Semnan University, Fall 2016
-- Mohammadreza Ebrahimi, <font color='darkblue'>Developed and implemented a random number creatorfor investigating experimental mind effects</font>  
+- Mohammadreza Ebrahimi, Developed and implemented a random number creatorfor investigating experimental mind effects  
 Prof. Mehrdad Ghomi Nejad, SemnanUniversity, Fall 2016
 
 #### RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS
