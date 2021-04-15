@@ -30,7 +30,7 @@ You can find my CV and skills in [this page](CV.md)
 Unlike my major title, my research field scale is as large as universe scale. I am working on black hole, their thermodynamic behavior and cosmology. If we  consider the thermodynamic variables as the space-time coordinates, it would be called _thermodynamic geometry_. My research is focused on thermodynamic geometry of black holes. It goes without saying I also have experience in cosmology, most of theoretical cosmologist are working on [standard model of cosmology](https://www.intechopen.com/books/redefining-standard-model-cosmology/introductory-chapter-standard-model-of-cosmology) where we assume that universe behaves just like [Friedmann-Roberston-Walker (FRW)](https://en.wikipedia.org/wiki/Friedmann–Lemaître–Robertson–Walker_metric) metric, but I consider that the universe does not follow the FRW metric that requires the univers to be homogeniouse and isotropy, therefore there would be another metric representation so-called <font color='darkblue'>Bianchi type I</font> universe. In addition, I am interested in machine larning and generally, programming. You can see my portfolios in my [GitHub page](https://github.com/mohammadreza-ebrahimi). Mixture of machine learning and physics could be so delicious, I recommend you taste it.
 
 ***
-### PUBLICATIONS
+### PUBLICATIONS 
 <font color='darkblue'>After publishing in journals, I would complete this part, now it is private</font>.
 
 ***
