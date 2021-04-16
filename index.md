@@ -12,7 +12,7 @@ goes on it becomes increasingly evident that the rules which the mathematician f
 <h2>Mohammadreza <font color='gray'>Ebrahimi Khuzani</font></h2>  
 [Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)
 
-### <font color='blue'>ABOUT ME</font> 
+### <font color='darkblue'>ABOUT ME</font> 
 My name is Mohammadreza Ebrahimi, I was born in April 1995, and now I'm 26. Master student of **Particle physics and quantum field theory** at [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I am the **1st** ranked student amonge graduating class with GPA of 3.72/4.00. My thesis consists of two main part; black holes and cosmology. In the first part, I investigated black holes thermodynamic behavior and geometry, in the second one, I have focused on anisotropic cosmology. I recieved my Bachelor's degree in Molecular Physics from [Semnan university](http://english.semnan.ac.ir/), Semnan, Iran, in 2018. 
 
 ***
@@ -47,13 +47,13 @@ After publishing in journals, I would complete this part, now it is private.
  - Examined holographic equipartition  in Binachi Type I cosmology
 
 ***
-### <font color='blue'>TEACHING EXPERIENCES</font>
+### <font color='darkblue'>TEACHING EXPERIENCES</font>
 - Lectured xAct, diffgeo and grTensor package for researcher in 4 sessions. 
   - [IUT-MEET](https://meet.iut.ac.ir/b/beh-y1s-fic-kqy)
 - Guided Mathematica and MAPLE for  3 general relativity projects
 - English language, physics and  mathematics
 
-### <font color='blue'>ACADEMIC PROJECTS</font>
+### <font color='darkblue'>ACADEMIC PROJECTS</font>
 - Mohammadreza Ebrahimi, Holographic Equipartition and Friedman Equations  
 Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019
 - Mohammadreza Ebrahimi, Mind Effects on Matter  
@@ -61,7 +61,7 @@ Prof. Mehrdad Ghomi Nejad,Semnan University, Fall 2016
 - Mohammadreza Ebrahimi, Developed and implemented a random number creatorfor investigating experimental mind effects  
 Prof. Mehrdad Ghomi Nejad, SemnanUniversity, Fall 2016
 
-#### <font color='blue'>RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS</font>
+#### <font color='darkblue'>RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS</font>
 
 - **General Relativity & Cosmology**
   - [Spacetime and Geometry: An Introduction to General Relativity](https://www.amazon.com/Spacetime-Geometry-Introduction-General-Relativity/dp/0805387323) by _Sean M. Carroll_
@@ -74,7 +74,7 @@ Prof. Mehrdad Ghomi Nejad, SemnanUniversity, Fall 2016
  
 - But after all, the best reference in order to start researching, is [arXiv.org](https://arXiv.org)
 
-### <font color='blue'>CONTACT</font>
+### <font color='darkblue'>CONTACT</font>
 
 
 |  **IUT** | r.ebrahimi@ph.iut.ac.ir   | 
