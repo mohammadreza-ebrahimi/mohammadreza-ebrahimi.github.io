@@ -85,7 +85,17 @@ policy by analyzing millions of games, and then playing many games against itsel
 turned off during the games against the champion; AlphaGo was just applying the policy it had learned <sup>1</sup>.         
 
 
+### Requirements
+Python  
+Integrated Development Environment Software / Python  
+**Installation**  
+- **Linux**: Iis probably already installed on your system. In oder to check it in your _Terminal_ type `python --version`. Also you will need a number of Python modules: NumPy, Pandas, Matplotlib, and Scikit-Learn, etc. To install them, you would need to use Python’s own packaging system, `pip`. You can check to see if it is installed on your system by cammand: `pip3 --version` or `pip --version`.  
+- **Windows**
 
+
+***  
+### Regression models tutorial
+- **Linear Regression**
 
 
 
