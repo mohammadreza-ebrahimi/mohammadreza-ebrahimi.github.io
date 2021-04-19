@@ -51,7 +51,7 @@ Some primary information on Machine Learning (ML) can be found [here](ML.md).
   > A free and open-source Python library used for scientific computing and technical computing. SciPy contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering. 
 - ***C++***
   - ROOT-CERN
-> An open-source data analysis framework used by high energy physics and others. ROOT enables statistically sound scientific analyses and visualization of large amounts of data: today, more than 1 exabyte (1,000,000,000 gigabyte) are stored in ROOT files. The Higgs was found with ROOT!
+   > An open-source data analysis framework used by high energy physics and others. ROOT enables statistically sound scientific analyses and visualization of large amounts of data: today, more than 1 exabyte (1,000,000,000 gigabyte) are stored in ROOT files. The Higgs was found with ROOT!
 
 **Data Visualiziation**  
 - ***Python***  
