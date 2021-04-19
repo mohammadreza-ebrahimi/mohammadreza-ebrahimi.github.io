@@ -100,7 +100,8 @@ Also you will need a number of Python modules: NumPy, Pandas, Matplotlib, and Sc
 python3 -c "import matplotlib, numpy, pandas, scipy, sklearn" 
 ```
 There should be no output and no error. To install them, you would need to use Python’s own packaging system, `pip`. You can check to see if it is installed on your system by cammand: `pip3 --version` or `pip --version`.  
-```$ pip3 --version
+```
+$ pip3 --version  
 pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)
 ```
 - **Windows**
