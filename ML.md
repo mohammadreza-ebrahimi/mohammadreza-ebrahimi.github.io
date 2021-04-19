@@ -88,8 +88,21 @@ turned off during the games against the champion; AlphaGo was just applying the 
 ### Requirements
 Python  
 Integrated Development Environment Software / Python  
+
 **Installation**  
-- **Linux**: Iis probably already installed on your system. In oder to check it in your _Terminal_ type `python --version`. Also you will need a number of Python modules: NumPy, Pandas, Matplotlib, and Scikit-Learn, etc. To install them, you would need to use Python’s own packaging system, `pip`. You can check to see if it is installed on your system by cammand: `pip3 --version` or `pip --version`.  
+- **Linux**: Iis probably already installed on your system. In oder to check it in your _Terminal_ type  
+```
+$ python --version
+Python 2.7.18
+```
+Also you will need a number of Python modules: NumPy, Pandas, Matplotlib, and Scikit-Learn, etc. 
+```
+python3 -c "import matplotlib, numpy, pandas, scipy, sklearn" 
+```
+There should be no output and no error. To install them, you would need to use Python’s own packaging system, `pip`. You can check to see if it is installed on your system by cammand: `pip3 --version` or `pip --version`.  
+```$ pip3 --version
+pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)
+```
 - **Windows**
 
 
