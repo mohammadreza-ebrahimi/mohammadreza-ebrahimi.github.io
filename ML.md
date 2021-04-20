@@ -108,7 +108,8 @@ pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)
 The best way to have it on your own windows, is to utilize [Anaconda](https://www.anaconda.com/) software.
 It is free, easy to use and contains several IDEs for python such as Jupyter Notebook, Spyder, PyCharm and ... 
 Just choose and download appropriate version for your sytem from this [link](https://www.anaconda.com/products/individual#Downloads).   
-It has been also released for Linux and MacOs. That's up to you.  
+It has been released for Linux and MacOs as well.
+
 
 
 ***  
