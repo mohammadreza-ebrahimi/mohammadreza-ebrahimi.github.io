@@ -48,10 +48,12 @@ After publishing in journals, I would complete this part, now it is private.
 
 ***
 ### <font color='darkblue'>TEACHING EXPERIENCES</font>
-- Lectured xAct, diffgeo and grTensor package for researcher in 4 sessions. 
+- Teached xAct, diffgeo and grTensor package for researcher. i defined manifold, coordinate, metric, tensors and etc in xAct in order to 
+evaluate curvature tensor for the metric. Furthermore, before these steps, we should have equation of motion (field equation) in hand, therfore, it is required to 
+varying action and as you, it takes long time to calculate and finally you not sure about the result. So hare I can utilize xAct, instead of complex calculations. I've provided you some sessions of my xAct class in following link. 
   - [IUT-MEET](https://meet.iut.ac.ir/b/beh-y1s-fic-kqy)
-- Guided Mathematica and MAPLE for  3 general relativity projects
-- English language, physics and  mathematics
+- Guided Mathematica and MAPLE for  3 general relativity projects. These are about basic usage of mathematica in general relativity. 
+- English language, physics and  mathematics. 
 
 ### <font color='darkblue'>ACADEMIC PROJECTS</font>
 - Mohammadreza Ebrahimi, Holographic Equipartition and Friedman Equations  
