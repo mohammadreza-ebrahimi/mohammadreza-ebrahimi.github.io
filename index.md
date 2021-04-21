@@ -56,8 +56,8 @@ varying action and as you, it takes long time to calculate and finally you not s
 - English language, physics and  mathematics. 
 
 ### <font color='darkblue'>ACADEMIC PROJECTS</font>
-- Mohammadreza Ebrahimi, Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019.  Holographic Equipartition and Friedman Equations. This is mainly about degrees of freedom in the bulk and on the surface. Here the bulk is interior of the universe and surface is the buondry surface f it. 
-It has been claimed that in for the universe in which it is homogenious and isotropy, there would be written FRW metric, and subsequently, equivalane between degrees of freedom on the surface and in the bulk is reached.  
+- Mohammadreza Ebrahimi, Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019.  Holographic Equipartition and Friedman Equations.  
+This is mainly about degrees of freedom in the bulk and on the surface. Here the bulk is the interior of the universe and the surface is the boundary surface of it. It has been claimed that in for the universe in which it is homogeneous and isotropy, there would be written FRW metric, and subsequently, equivalent between degrees of freedom on the surface and in the bulk is reached. 
 - Mohammadreza Ebrahimi, Mind Effects on Matter  
 Prof. Mehrdad Ghomi Nejad,Semnan University, Fall 2016
 - Mohammadreza Ebrahimi, Developed and implemented a random number creatorfor investigating experimental mind effects  
