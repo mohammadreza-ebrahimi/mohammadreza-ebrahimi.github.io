@@ -120,7 +120,7 @@ _In following I am going to breifly descuss some of the most important modeles t
 > In statistics, linear regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). The case of one explanatory variable is called simple linear regression; for more than one, the process is called multiple linear regression. This term is distinct from multivariate linear regression, where multiple correlated dependent variables are predicted, rather than a single scalar variable. (From wiki)
 
 ![lin](img/lin.png)  
-here's you can see an code example  
+You can see the coding example in following
 
 ```python
 from sklearn.linear_model import LinearRegression
@@ -139,5 +139,40 @@ lin_reg = LinearRegression()
 lin_reg.fit(X, y)
 lin_reg.intercept_, lin_reg.coef_
 ```
+- **DecisionTree and RandomForest Regression/Classification**
+More complex models; These are powerful models, capable of finding complex nonlinear relationships in the data. Assume that data consists of lots of features and instances. In these situations `DecisionTree` and specialy `RandomForest` could be good choices.
+
+![tree](/img/tree.jpg)
+[dinhanhthi.com/decision-tree-regression](https://dinhanhthi.com/decision-tree-regression/)
+
+![forest](/img/forest.png)
+[morioh.com](https://morioh.com/p/2d4243726fdb)
+
+You can see the coding example in following
+```python
+from sklearn.tree import DecisionTreeRegressor
+
+tree=DecisionTreeRegressor() # for DecisionTree model
+tree.fit(X,y)
+
+from sklearn.ensemble import RandomForestRegressor
+
+forest=RandomForestRegressor() # for RandomForest model
+forest.fit(X,y)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [1]. <font color='gray'>Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017)</font>
