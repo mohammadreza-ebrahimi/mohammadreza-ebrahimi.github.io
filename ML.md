@@ -139,7 +139,7 @@ lin_reg = LinearRegression()
 lin_reg.fit(X, y)
 lin_reg.intercept_, lin_reg.coef_
 ```
-- **DecisionTree and RandomForest Regression/Classification**
+- **DecisionTree and RandomForest Regression/Classification**  
 More complex models; These are powerful models, capable of finding complex nonlinear relationships in the data. Assume that data consists of lots of features and instances. In these situations `DecisionTree` and specialy `RandomForest` could be good choices.
 
 ![tree](/img/tree.jpg)
