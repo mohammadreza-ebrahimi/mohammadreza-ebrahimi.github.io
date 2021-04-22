@@ -37,7 +37,7 @@ Sometimes you want to predict some thing like _price_, e.g. car price, given a s
 Here are some of the most important supervised learning algorithms  
 - Linear Regression
 - Logistic Regression
-- Support Vector Machines (SVMs)
+- Support Vector Machines (SVM)
 - Decision Trees and Random Forests
 - Neural networks
 - k-Nearest Neighbors
@@ -161,6 +161,10 @@ forest=RandomForestRegressor() # for RandomForest model
 forest.fit(X,y)
 
 ```
+
+-**Support Vector Machine (SVM)**
+
+I will cover this model later in this tutorial.
 
 
 
