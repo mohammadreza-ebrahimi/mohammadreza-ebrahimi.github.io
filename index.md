@@ -23,7 +23,7 @@ You can find my CV and skills in [this page](CV.md)
 ### <font color='darkblue'>RESEARCH INTERESTS</font> 
 - Black holes and black holes thermodynamics
 - Machine learning and Data analysis
-- High energy physics
+- Particle physics
 - Cosmology  
 
 ***
