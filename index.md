@@ -23,7 +23,7 @@ You can find my CV and skills in [this page](CV.md)
 ### <font color='darkblue'>RESEARCH INTERESTS</font> 
 - Black holes and black holes thermodynamics
 - Machine learning and Data analysis
-  - A short trip to [Machine learning](ML.md)
+  - A short trip to [Machine learning](ML.md). After reading this page, I suggest you see my training portfolio [here](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training) so that start coding by various examples.
 - Particle physics
 - Cosmology  
 
