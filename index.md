@@ -21,8 +21,9 @@ You can find my CV and skills in [this page](CV.md)
 
 ***
 ### <font color='darkblue'>RESEARCH INTERESTS</font> 
-- Black holes and black holes thermodynamic
+- Black holes and black holes thermodynamics
 - Machine learning and Data analysis
+- High energy physics
 - Cosmology  
 
 ***
@@ -76,9 +77,9 @@ Prof. Mehrdad Ghomi Nejad, SemnanUniversity, Fall 2016
  
 - But after all, the best reference in order to start researching, is [arXiv.org](https://arXiv.org)
 
-### <font color='darkblue'>CONTACT</font>
+<!--- ### <font color='darkblue'>CONTACT</font> --->
 
-
+<!--- <a href="https://github.com/mohammadreza-ebrahimi"><img src="./img/logo-github.png" height="20"></a>
 |  **IUT** | r.ebrahimi@ph.iut.ac.ir   | 
-|  **Gmail** |  m.reza.ebrahimi1995@gmail.com | 
+|  **Gmail** |  m.reza.ebrahimi1995@gmail.com | ---> 
 
