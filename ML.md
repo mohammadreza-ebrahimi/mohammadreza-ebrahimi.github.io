@@ -10,11 +10,12 @@ Machine learning advented in order to programming getting more easier that befor
 after that it does not need to being programmed to do so. These data are called **Trainig data** since by using them, you train an algorithm to do something special, it can be a prediction, calssification or make a decision. let me give an example. Assume you want to develop a program so that it determines that the email which you received, is _spam_ or _not spam_. If you use the old technics, it is required to update it frequently. Because for example, you give the program a keyword like _money_ to say detect it as _spam_, but if they change it to `$`, it would be incapable to detect it. But what machine learning do instead?
 In machine learning, you give the computer a data set consists of so many samples of spam email. By these samples, you train the machine what a spam email lookslike. 
 
-![2](img/2.png)
+![1](img/1.png)
+
 
 But that is not all story, you would be familiar more with machine learning in following. Here you can see the general approach in machine learning.
 
-![1](img/1.png)
+![2](img/2.png)
 
 ***
 ### All kinds of learning
@@ -31,9 +32,9 @@ A typical supervised learning task is classification. The spam filter is a good 
 with many example emails along with their class (spam or ham), and it must learn how to classify new
 emails. The labels (target) could be binary (like spam or not) and also multi class. Some other example of binary are: `True` or `False`, `1` or `0`, `yes` or `No`. 
   - **Regression**  
-Sometimes you want to predict some thing like _price_, e.g. car price, given a set of features (mileage, age, brand, etc.) called predictors. In these caese, your labels contains a range of numeric values, not binary or multi class. To train the system, you need to give it many examples of cars, including both their predictors and their labels (i.e., their prices).  
-Here are some of the most important supervised learning algorithms  
+Sometimes you want to predict some thing like _price_, e.g. car price, given a set of features (mileage, age, brand, etc.) called predictors. In these caese, your labels contains a range of numeric values, not binary or multi class. To train the system, you need to give it many examples of cars, including both their predictors and their labels (i.e., their prices).    
 
+Here are some of the most important supervised learning algorithms  
 - Linear Regression
 - Logistic Regression
 - Support Vector Machines (SVMs)
@@ -108,14 +109,35 @@ pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)
 The best way to have it on your own windows, is to utilize [Anaconda](https://www.anaconda.com/) software.
 It is free, easy to use and contains several IDEs for python such as Jupyter Notebook, Spyder, PyCharm and ... 
 Just choose and download appropriate version for your sytem from this [link](https://www.anaconda.com/products/individual#Downloads).   
-It has been released for Linux and MacOs as well.
+It has been released for Linux and MacOs as well.  
 
+_In following I am going to breifly descuss some of the most important modeles that would be applied in a Regression machine learning models_. 
 
 
 ***  
 ### Regression models tutorial
-- **Linear Regression**
+- **Linear Regression**  
+> In statistics, linear regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). The case of one explanatory variable is called simple linear regression; for more than one, the process is called multiple linear regression. This term is distinct from multivariate linear regression, where multiple correlated dependent variables are predicted, rather than a single scalar variable. (From wiki)
 
+![lin](img/lin.png)  
+here's you can see an code example  
 
+```python
+from sklearn.linear_model import LinearRegression
+import numpy as np
+
+#producing some fake data
+np.random.seed(42)  # to reproduce every time the same results.
+X = 3 * np.random.rand(200, 1)
+# y = \theta_1 + \theta_0 * X + nois
+y = 3 + 5 * X + np.random.randn(200, 1)
+
+# Evaluate theta_0 and theta_1 with LinearRegression model
+from sklearn.linear_model import LinearRegression
+
+lin_reg = LinearRegression()
+lin_reg.fit(X, y)
+lin_reg.intercept_, lin_reg.coef_
+```
 
 [1]. <font color='gray'>Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2017)</font>
