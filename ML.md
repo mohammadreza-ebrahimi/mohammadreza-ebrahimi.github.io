@@ -134,7 +134,7 @@ It is an algorithm based on Gradiant Descend (GD) which I would cover this conce
 
   
 ```python
-<div style="background-color: rgb(50, 50, 50);">
+
 import matplotlib as mlp
 import matplotlib.pyplot as plt
 import numpy as np
