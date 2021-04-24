@@ -111,10 +111,52 @@ It is free, easy to use and contains several IDEs for python such as Jupyter Not
 Just choose and download appropriate version for your sytem from this [link](https://www.anaconda.com/products/individual#Downloads).   
 It has been released for Linux and MacOs as well.  
 
+
+***
+### Important Concepts in Machine Learning  
+- **Cost Function**:  
+In order to measure your selected model performance, you have to examine it by utilizing **Cost fucntion**. Cost function measure how bad you model is. People typically use a dcost function that measures the distance between the model's prediction and the training instances, the objective is to **minimize this distance** and hence, cost function. You would be familiar with some of these functions in present tutorial. 
+
+
 _In following I am going to breifly descuss some of the most important modeles that would be applied in a Regression machine learning models_. 
 
 
-***  
+***
+### Classifiaction models tutorial  
+
+- **Stochastic Gradiant Descend (SGD)**  
+It is an algorithm based on Gradiant Descend (GD) which I would cover this concept in this tutorial. For now, jsut know that it is a model in `scikit-learn` for both classifiction and Regression machine learning.  Here's you can see an example by using MNIST.  
+> The MNIST database of handwritten digits with 784 features. It can be split in a training set of the first 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image. It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting. The original black and white (bilevel) images from NIST were size normalized to fit in a 20x20 pixel box while preserving their aspect ratio. The resulting images contain grey levels as a result of the anti-aliasing technique used by the normalization algorithm. the images were centered in a 28x28 image by computing the center of mass of the pixels, and translating the image so as to position this point at the center of the 28x28 field.  
+```python
+import matplotlib as mlp
+import matplotlib.pyplot as plt
+import numpy as np
+# %%
+from sklearn.datasets import fetch_openml
+
+mnist = fetch_openml('mnist_784', version=1)
+mnist.keys()
+# Data : Contains an array with one row per instance and one column per feature.
+# target : labeled data
+# %%
+X, y = mnist['data'], mnist['target']
+X.shape, y.shape
+# There are 70,000 images, each image has 784 features (28 * 28)px,
+# so each image represents one pixel's intensity from 0 to 255.
+# Binary classification
+
+X_train, X_test, y_train, y_test = X[:60000], X[60000:], y[:60000], y[60000:]
+# Training binary classifier
+y_train_5 = (y_train == 5)
+y_test_5 = (y_test == 5)
+from sklearn.linear_model import SGDClassifier
+
+sgd_cls = SGDClassifier(random_state=42)
+sgd_cls.fit(X_train, y_train_5)
+# sgd_cls.fit(X_train, y_train) #multicalss
+```
+
+***
 ### Regression models tutorial
 - **Linear Regression**  
 > In statistics, linear regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). The case of one explanatory variable is called simple linear regression; for more than one, the process is called multiple linear regression. This term is distinct from multivariate linear regression, where multiple correlated dependent variables are predicted, rather than a single scalar variable. (From wiki)
@@ -162,7 +204,7 @@ forest.fit(X,y)
 
 ```
 
--**Support Vector Machine (SVM)**
+- **Support Vector Machine (SVM)**
 
 I will cover this model later in this tutorial.
 
