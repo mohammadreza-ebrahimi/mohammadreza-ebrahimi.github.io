@@ -115,10 +115,15 @@ It has been released for Linux and MacOs as well.
 ### Important Concepts in Machine Learning  
 
 - **Cost Function**:  
-In order to measure your selected model performance, you have to examine it by utilizing **Cost fucntion**. Cost function measure how bad you model is. People typically use a dcost function that measures the distance between the model's prediction and the training instances, the objective is to **minimize this distance** and hence, cost function. You would be familiar with some of these functions in present tutorial.   
+In order to measure your selected model performance, you have to examine it by utilizing **Cost fucntion**. Cost function measure how bad you model is. People typically use a dcost function that measures the distance between the model's prediction and the training instances, the objective is to **minimize this distance** and hence, cost function. You would be familiar with some of these functions in present tutorial. 
 
 - **Train set and Test set**  
-In supervised learning, the dataset that is used for model training, is divided in two sets, **Train set** (most time 80 percent of the data) and **Test set** (20 percent of the data).  we use training set to train our model, and after choosing the best models based on cost function value, the test set us utilized to examine the models. One way to divide those, is using `train_test_split` function in `scikit-learn`. 
+In supervised learning, the dataset that is used for model training, is divided in two sets, **Train set** (most time 80 percent of the data) and **Test set** (20 percent of the data).  we use training set to train our model, and after choosing the best models based on cost function value, the test set us utilized to examine the models. One way to divide those, is using `train_test_split` function in `scikit-learn`. We have two distinct errors (cost function); Generalization error and training error.  The first one evaluates error for the new cases (test set) and the latter refers to training set error. 
+- **Overfitting**  
+It would happen if you choose the model so complex. In this case, your models have acted on each instance and the irrelevant data, sampling bias, and poor data have caused the model to be good at training data and poor performance on the test set. Such this condition, the model has **high generalization error** and **low training error**. 
+
+- **Underfitting**  
+Unlike overfitting, in this cases the model has been choosen so simple. 
 
 ***
 _In following I am going to breifly descuss some of the most important modeles that would be applied in a Regression machine learning models_. 
