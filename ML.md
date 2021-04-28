@@ -167,6 +167,33 @@ sgd_cls.fit(X_train, y_train_5)
 # sgd_cls.fit(X_train, y_train) #multicalss
 
 ```
+
+- **DecisionTree and RandomForest Regression/Classification**  
+More complex models; These are powerful models, capable of finding complex nonlinear relationships in the data. Assume that data consists of lots of features and instances. In these situations `DecisionTree` and specialy `RandomForest` could be good choices.
+- **Logestic Regression**
+Unlike its name, it is utilized in classification machine learning. Logistic Regression (also called Logit Regression) is commonly used to estimate the probability that an instance belongs to a particular class (e.g., what is the probability that this email is spam?):
+
+If the estimated probability is greater than 50%, then the model predicts that the instance belongs to that class (called the positive class, labeled “1”),  
+or else it predicts that it does not (i.e., it belongs to the negative class, labeled “0”).  
+
+This makes it a binary classifier. So we can use Logestic Regression just for binary classes. In order to use it in multi-calss problems, it would be changed to 
+**Softmax Regression**. You can see an example refers to `sklearn` dataset, that is about 3 kinds of `Iris` with 4 features. (_patal length, patal width, sepal length, sepal width_).  
+```python
+import numpy as np
+from sklearn.linear_model import LogisticRegression
+from sklearn import datasets
+iris = datasets.load_iris()
+iris
+iris.keys()
+iris['target']
+X = iris['data']
+y = (iris['target'] == 2).astype(np.int)
+y
+X
+log_reg = LogisticRegression()
+log_reg.fit(X, y)
+```
+
 ***
 ### Regression models tutorial
 - **Linear Regression**  
