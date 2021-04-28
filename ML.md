@@ -168,9 +168,9 @@ sgd_cls.fit(X_train, y_train_5)
 
 ```
 
-- **DecisionTree and RandomForest Regression/Classification**  
+- **DecisionTree and RandomForest Regression/Classification**    
 More complex models; These are powerful models, capable of finding complex nonlinear relationships in the data. Assume that data consists of lots of features and instances. In these situations `DecisionTree` and specialy `RandomForest` could be good choices.
-- **Logestic Regression**
+- **Logestic Regression**  
 Unlike its name, it is utilized in classification machine learning. Logistic Regression (also called Logit Regression) is commonly used to estimate the probability that an instance belongs to a particular class (e.g., what is the probability that this email is spam?):
 
 If the estimated probability is greater than 50%, then the model predicts that the instance belongs to that class (called the positive class, labeled “1”),  
