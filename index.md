@@ -32,7 +32,7 @@ You can find my CV and skills in [this page](CV.md)
 Unlike my major title, my research field scale is as large as universe scale. I am working on black hole, their thermodynamic behavior and cosmology. If we  consider the thermodynamic variables as the space-time coordinates, it would be called _thermodynamic geometry_. My research is focused on thermodynamic geometry of black holes. It goes without saying I also have experience in cosmology, most of theoretical cosmologist are working on [standard model of cosmology](https://www.intechopen.com/books/redefining-standard-model-cosmology/introductory-chapter-standard-model-of-cosmology) where we assume that universe behaves just like [Friedmann-Roberston-Walker (FRW)](https://en.wikipedia.org/wiki/Friedmann–Lemaître–Robertson–Walker_metric) metric, but I consider that the universe does not follow the FRW metric that requires the univers to be homogeniouse and isotropy, therefore there would be another metric representation so-called <font color='darkblue'>Bianchi type I</font> universe. In addition, I am interested in machine larning and generally, programming. You can see my portfolios in my [GitHub page](https://github.com/mohammadreza-ebrahimi). Mixture of machine learning and physics could be so delicious, I recommend you taste it.
 
 ***
-### PUBLICATIONS 
+### <font color='darkblue'>PUBLICATIONS</font> 
 After publishing in journals, I would complete this part, now it is private.
 
 ***
@@ -44,9 +44,10 @@ After publishing in journals, I would complete this part, now it is private.
 - Reviewed 270 data to predict of the G0W0 band-gaps  by developing regression model in machine learning
   - [github.com/mohammadreza-ebrahimi/band-gap](https://github.com/mohammadreza-ebrahimi/band-gap)
 - Developed a program in xAct to derive 5 and 4-dimensional Schwarzschild ans BTZ black hole solution
-  - [github.com/mohammadreza-ebrahimi/Schwarzschild-xAct](https://github.com/mohammadreza-ebrahimi/Schwarzschild-xAct)
- - Analyzed higher dimension rotating black holes solution  by novel theory of deriving rotational black holes metric
- - Examined holographic equipartition  in Binachi Type I cosmology
+  - [github.com/mohammadreza-ebrahimi/Schwarzschild-xAct](https://github.com/mohammadreza-ebrahimi/Schwarzschild-xAct)  
+- Analyzed the ATLAS experiment to identify the Higgs boson by Machine learning (CERN public datasets)   
+- Analyzed higher dimension rotating black holes solution  by novel theory of deriving rotational black holes metric
+- Examined holographic equipartition  in Binachi Type I cosmology
 
 ***
 ### <font color='darkblue'>TEACHING EXPERIENCES</font>
