@@ -1,6 +1,6 @@
 ### _CURRICULUM VITAE_
 ***
-[Long CV](https://raw.githubusercontent.com/mohammadreza-ebrahimi/mohammadreza-ebrahimi.github.io/main/long-cv/long%20cv.pdf)
+[Long CV]()
 
 ### SKILLS
 
