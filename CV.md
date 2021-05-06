@@ -68,5 +68,8 @@
 **Operating System**  
 - Linux/Unix
 - MacOS
-- Windows
+- Windows   
 
+
+- **Certificates**  
+![git-certificate](img/git-certificate.png)
