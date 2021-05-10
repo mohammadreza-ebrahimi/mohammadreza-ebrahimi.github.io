@@ -9,11 +9,11 @@ goes on it becomes increasingly evident that the rules which the mathematician f
  _Paul M. Dirac_
  
 ***
-<h2>Mohammadreza <font color='gray'>Ebrahimi Khuzani</font></h2>  
+<h2>MohammadReza <font color='gray'>Ebrahimi Khuzani</font></h2>  
 [Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)
 
 ### <font color='darkblue'>ABOUT ME</font> 
-My name is Mohammadreza Ebrahimi, I was born in April 1995, and now I'm 26. Master student of **Particle physics and quantum field theory** at [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I am the **1st** ranked student amonge graduating class with GPA of 3.72/4.00. My thesis consists of two main part; black holes and cosmology. In the first part, I investigated black holes thermodynamic behavior and geometry, in the second one, I have focused on anisotropic cosmology. I recieved my Bachelor's degree in Molecular Physics from [Semnan university](http://english.semnan.ac.ir/), Semnan, Iran, in 2018. 
+My name is MohammadReza Ebrahimi Khuzani, I was born in April 1995, and now I'm 26. Master student of **Particle physics and quantum field theory** at [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I am the **1st** ranked student amonge graduating class with GPA of 3.72/4.00. My thesis consists of two main part; black holes and cosmology. In the first part, I investigated black holes thermodynamic behavior and geometry, in the second one, I have focused on anisotropic cosmology. I recieved my Bachelor's degree in Molecular Physics from [Semnan university](http://english.semnan.ac.ir/), Semnan, Iran, in 2018. 
 
 ***
 ### <font color='darkblue'>CURRICULUM VITAE</font>  
@@ -59,11 +59,11 @@ varying action and as you, it takes long time to calculate and finally you not s
 - English language, physics and  mathematics. 
 
 ### <font color='darkblue'>ACADEMIC PROJECTS</font>
-- Mohammadreza Ebrahimi, Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019.  Holographic Equipartition and Friedman Equations.  
+- MohammadReza Ebrahimi Khuzani, Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019.  Holographic Equipartition and Friedman Equations.  
 This is mainly about degrees of freedom in the bulk and on the surface. Here the bulk is the interior of the universe and the surface is the boundary surface of it. It has been claimed that in for the universe in which it is homogeneous and isotropy, there would be written FRW metric, and subsequently, equivalent between degrees of freedom on the surface and in the bulk is reached. 
-- Mohammadreza Ebrahimi, Mind Effects on Matter  
+- MohammadReza Ebrahimi Khuzani, Mind Effects on Matter  
 Prof. Mehrdad Ghomi Nejad,Semnan University, Fall 2016
-- Mohammadreza Ebrahimi, Developed and implemented a random number creatorfor investigating experimental mind effects  
+- MohammadReza Ebrahimi Khuzani, Developed and implemented a random number creatorfor investigating experimental mind effects  
 Prof. Mehrdad Ghomi Nejad, SemnanUniversity, Fall 2016
 
 #### <font color='darkblue'>RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS</font>
