@@ -244,7 +244,7 @@ forest.fit(X,y)
 
 - **Support Vector Machine (SVM)**
 
-I will cover this model later in this tutorial. 
+I will cover this model later in this tutorial.   
 
 ***  
 
