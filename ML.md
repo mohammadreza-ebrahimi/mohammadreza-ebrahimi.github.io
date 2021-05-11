@@ -244,10 +244,17 @@ forest.fit(X,y)
 
 - **Support Vector Machine (SVM)**
 
-I will cover this model later in this tutorial.
+I will cover this model later in this tutorial. 
 
+You will not be able to run a machine learning program unless you have enough incentive and preoccupation to learn it. Furthermore, it is required to work hard and do various examples and data. There are different public datasets so that you can use them readily, e.g. [kaggle.com](https://kaggle.com), and also [CERN](https://iml.web.cern.ch/public-datasets). The latter has been released by CERN, and if you want to test or enhance your skills and machine learning ability in physics, it would be the best choice.
 
-
+  
+    
+      
+         
+           
+             
+             
 
 
 
