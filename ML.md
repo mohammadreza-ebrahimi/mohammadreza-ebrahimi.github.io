@@ -126,7 +126,7 @@ It would happen if you choose the model so complex. In this case, your models ha
 Unlike overfitting, in this cases the model has been choosen so simple. 
 
 ***
-_In following I am going to breifly descuss some of the most important modeles that would be applied in a Regression machine learning models_. 
+_In following I am going to breifly descuss some of the most important models that would be applied in a Regression machine learning models_. 
 
 
 ***
