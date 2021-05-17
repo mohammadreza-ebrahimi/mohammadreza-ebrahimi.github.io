@@ -62,9 +62,9 @@ varying action and as you, it takes long time to calculate and finally you not s
 - Mohammadreza Ebrahimi Khuzani, Prof. Behrouz Mirza, Isfahan University of Technology, Winter 2019.  Holographic Equipartition and Friedman Equations.  
 This is mainly about degrees of freedom in the bulk and on the surface. Here the bulk is the interior of the universe and the surface is the boundary surface of it. It has been claimed that in for the universe in which it is homogeneous and isotropy, there would be written FRW metric, and subsequently, equivalent between degrees of freedom on the surface and in the bulk is reached. 
 - Mohammadreza Ebrahimi Khuzani, Mind Effects on Matter  
-Prof. Mehrdad Ghomi Nejad,Semnan University, Fall 2016
+Prof. Mehrdad Ghominejad,Semnan University, Fall 2016
 - Mohammadreza Ebrahimi Khuzani, Developed and implemented a random number creatorfor investigating experimental mind effects  
-Prof. Mehrdad Ghomi Nejad, SemnanUniversity, Fall 2016
+Prof. Mehrdad Ghominejad, Semnan University, Fall 2016
 
 #### <font color='darkblue'>RECOMMENDED BOOKS FOR INTERESTED IN THEORETICAL PHYSICS</font>
 
