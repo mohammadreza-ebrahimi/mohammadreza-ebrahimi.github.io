@@ -74,4 +74,5 @@
 
 
 - **Certificates**  
-![git-certificate](img/git-certificate.png)
+![MLHEP-certificate](img/cert_excellence_Mohammadreza_Ebrahimi_Khuzani_2021.png)
+![git-certificate](img/git-certificate.png)  
