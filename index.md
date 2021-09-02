@@ -41,7 +41,7 @@ After publishing in journals, I would complete this part, now it is private.
   - [github.com/mohammadreza-ebrahimi/1D-Ising-model](https://github.com/mohammadreza-ebrahimi/1D-Ising-model)
 - Reviewed CERN Electron Collision data to predict the electron mass  in machine learning 
   - [github.com/mohammadreza-ebrahimi/CERN-collision-data](https://github.com/mohammadreza-ebrahimi/CERN-collision-data)
-- Reviewed 270 data to predict of the G0W0 band-gaps  by developing regression model in machine learning
+- Reviewed 270 data to predict of the \(G_0W_0\) band-gaps  by developing regression model in machine learning
   - [github.com/mohammadreza-ebrahimi/band-gap](https://github.com/mohammadreza-ebrahimi/band-gap)
 - Developed a program in xAct to derive 5 and 4-dimensional Schwarzschild ans BTZ black hole solution
   - [github.com/mohammadreza-ebrahimi/Schwarzschild-xAct](https://github.com/mohammadreza-ebrahimi/Schwarzschild-xAct)  
