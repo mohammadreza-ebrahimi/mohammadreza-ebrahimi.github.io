@@ -13,7 +13,7 @@ goes on it becomes increasingly evident that the rules which the mathematician f
 [Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)
 
 ### <font color='darkblue'>ABOUT ME</font> 
-My name is Mohammadreza Ebrahimi Khuzani, I was born in April 1995, and now I'm 26. Master student of **Particle physics and quantum field theory** at [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I am the **1st** ranked student amonge graduating class with GPA of 3.72/4.00. My thesis consists of two main part; black holes and cosmology. In the first part, I investigated black holes thermodynamic behavior and geometry, as the seconf part, I've focused on anisotropic cosmology. Furthuremore, I have got "Certification of Excellence" from EPFL in field of Machine learninf in high energy physics.
+My name is Mohammadreza Ebrahimi Khuzani, I was born in April 1995, and now I'm 26. Master student of **Particle physics and quantum field theory** at [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, under supervision of [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I am the **1st** ranked student amonge graduating class with GPA of 3.72/4.00. My thesis consists of two main part; black holes and cosmology. In the first part, I investigated black holes thermodynamic behavior and geometry, as the seconf part, I've focused on anisotropic cosmology. Furthermore, I have got a "Certification of Excellence" from EPFL in the field of Machine learning in high energy physics.
 
 ***
 ### <font color='darkblue'>CURRICULUM VITAE</font>  
