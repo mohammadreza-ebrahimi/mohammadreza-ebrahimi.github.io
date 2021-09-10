@@ -51,6 +51,7 @@ After publishing in journals, I would complete this part, now it is private.
 
 ***
 ### <font color='darkblue'>TEACHING EXPERIENCES</font>
+- Lecturer of Git and GitHub workshop.
 - Teached xAct, diffgeo and grTensor package for researcher. I define manifold, coordinate, metric, tensors and etc in xAct in order to 
 evaluate curvature tensor for the metric. Furthermore, before these steps, we should have equation of motion (field equation) in hand, therfore, it is required to 
 varying action and as you, it takes long time to calculate and finally you not sure about the result. So hare I can utilize xAct, instead of complex calculations. I've provided you some sessions of my xAct class in following link. 
