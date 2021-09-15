@@ -18,6 +18,6 @@ ATLAS investigates a wide range of physics. This detector is applied for many pu
 LRsaba_CERN_0212_3219](img/LRsaba_CERN_0212_3219.jpg)
 The interactions in the ATLAS detectors create an enormous flow of data. To digest the data, ATLAS uses an advanced “trigger” system to tell the detector which events to record and which to ignore. Complex data-acquisition and computing systems are then used to analyse the collision events recorded. At 46 m long, 25 m high and 25 m wide, the 7000-tonne ATLAS detector is the largest volume particle detector ever constructed. It has 46m length, 25m diameter and with mass of 7000t.  
 
-- **CMS**
+- **CMS**  
 It is almost same as the ATLAS experiments but uses different technical solutions and a different magnet-system design. An unusual feature of the CMS detector is that instead of being built in-situ like the other giant detectors of the LHC experiments, it was constructed in 15 sections at ground level before being lowered into an underground cavern near Cessy in France and reassembled. The complete detector is 21 metres long, 15 metres wide and 15 metres high.  
 ![cms1](img/cms1.jpg)
