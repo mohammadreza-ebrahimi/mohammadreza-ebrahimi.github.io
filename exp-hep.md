@@ -8,4 +8,4 @@ Detectors observe and record the results of these collisions. Now the most power
 
 - **LHC**  
 The LHC consists of a 27-kilometre ring of superconducting magnets with a number of accelerating structures to boost the energy of the particles along the way.  
-![lhc.jpg]()
+![201802-030_10](img/201802-030_10.jpg)
