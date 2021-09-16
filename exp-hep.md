@@ -29,5 +29,5 @@ It is almost same as the ATLAS experiments but uses different technical solution
 
 - **Deep Underground Neutrino Experiment (DUNE)**  
 The Deep Underground Neutrino Experiment (DUNE), a new globally organized endeavor with large international partnerships, grows out of a former neutrino research collaboration known as the Long Baseline Neutrino Experiment (LBNE). The DUNE collaboration, now global, continues to grow, and with 750 scientists, is the largest neutrino experiment collaboration in the world. Based on recommendations from a recent high-energy physics advisory panel, the process of forming a new fully internationalized collaboration to construct the experiment and the Long-Baseline Neutrino Facility (LBNF) in which it will be situated is well underway.  
-![NewsDUNE2](NewsDUNE2)
+![NewsDUNE2](NewsDUNE2.jpg)
 
