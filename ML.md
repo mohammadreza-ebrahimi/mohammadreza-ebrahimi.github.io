@@ -1,4 +1,4 @@
-## MACHINE LEARNING
+## Machine Learning
 
 - What is Machine Learning?
 - All kinds of Learning
