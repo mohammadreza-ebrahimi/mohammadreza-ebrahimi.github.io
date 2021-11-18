@@ -1,4 +1,4 @@
-### _Curriculum Vitae_
+### Curriculum Vitae
 ***
 [Long CV](https://raw.githubusercontent.com/mohammadreza-ebrahimi/mohammadreza-ebrahimi.github.io/main/long-cv/long%20cv.pdf)
 
