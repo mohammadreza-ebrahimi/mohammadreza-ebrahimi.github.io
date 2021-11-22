@@ -22,6 +22,13 @@ The interactions in the ATLAS detectors create an enormous flow of data. To dige
 It is almost same as the ATLAS experiments but uses different technical solutions and a different magnet-system design. An unusual feature of the CMS detector is that instead of being built in-situ like the other giant detectors of the LHC experiments, it was constructed in 15 sections at ground level before being lowered into an underground cavern near Cessy in France and reassembled. The complete detector is 21 metres long, 15 metres wide and 15 metres high.  
 ![cms1](img/cms1.jpg)
 
+- **Belle II**
+> In the big bang, matter and antimatter should have been created in equal amounts. But why is the universe today filled almost only with matter? Physicists attribute the different behaviour of matter and antimatter to the violation of the so-called CP symmetry. This fundamental symmetry of nature states that laws of physics should not change when a particle is interchanged with its antiparticle and the signs of all its spatial coordinates are flipped. Still, the extent of the observed CP violation is not sufficient to explain the actual excess of matter in the universe. The Belle II experiment at the SuperKEKB accelerator in Japan aims to solve this great mystery of particle physics.
+![belle2](img/belle2.jpg)  
+
+Very first step after the collision occurs at the Pixel and Silicon Vertex detectors, which are responsible for detection of charged particle path. Next is Central Drift Chamber which ionize the gas fill in the detector and by this, particle trajectory and momentum is obtained. After, they lead to Aerogel RICH counter and TOP counter. In this section, charged particle emits Cherenkov radiation, thereby, the timing and pattern information of detected Cherenkov radiation tell us what kind of particle it is. Next, comes Electromagnetic Calorimeter. This detector is used for precisely measuring the energy of photon and electrons.
+The outer most detector is Long-Living neutral Kaon and Muon detector. It detects Muon which penetrates most of the detector.
+
 - **T2K**  
 > T2K is a neutrino experiment designed to investigate how neutrinos change from one flavour to another as they travel (neutrino oscillations). An intense beam of muon neutrinos is generated at the J-PARC nuclear physics site on the East coast of Japan and directed across the country to the Super-Kamiokande neutrino detector in the mountains of western Japan. The beam is measured once before it leaves the J-PARC site, using the near detector ND280, and again at Super-K: the change in the measured intensity and composition of the beam is used to provide information on the properties of neutrinos.
 ![Kamiokande](img/Kamiokande.jpg)
