@@ -6,8 +6,8 @@
 
 
 ### What is Machine Learning?  
-Machine learning advented in order to programming getting more easier than before. Actualy, in machine learning you help computer algorithm to improve through data, afterwhile it does not need to being programmed to do so anymore. These data are called **Trainig data** since by using them, you train an algorithm to do something special, it can be a prediction, calssification or make a decision. let me give an example. Assume you want to develop a program so that it determines that the email which you received, is _spam_ or _not spam_. If you use the old technics, it is required to update it frequently. Because for example, you give the program a keyword like _money_ to say detect it as _spam_, but if they change it to `$`, it would be incapable to detect it. But what machine learning do instead?
-In machine learning, you give the computer a data set consists of so many samples of spam email. By these samples, you train the machine what a spam email lookslike. 
+As a result of machine learning, programming became easier than ever before. Actually, with machine learning, you assist computer algorithms in improving through data, after which it no longer has to be taught to do so. These are known as **Training data** because they are used to train an algorithm to accomplish something exceptional. It might be a forecast, a categorization, or a judgment. Allow me to give you an example. Assume you want to create a software that can identify whether an email is _spam_ or _not spam_. If you employ ancient techniques, you must keep them up to date on a regular basis. Because, for example, if you provide the program a term like _money_ to identify _spam_, if they alter it to '$', it will be unable to detect it. What, on the other hand, does machine learning do?
+In machine learning, you provide the computer with a data set including a large number of spam email samples. These examples teach the algorithm how to recognize spam emails. 
 
 ![1](img/1.png)
 
@@ -18,7 +18,7 @@ But that is not all story, you would be familiar more with machine learning in f
 
 ***
 ### All kinds of learning
-When we are talking about learning, we mean that it may concern with learning to predict something (_label_), to assign(allocate) some data to something else (_label_), or learning so that what to do, what not to do. Based on the explanation, we have three different learning as follows  
+When we talk about learning, we mean learning to predict something (_label_), assign(allocate) some data to something else (_label_), or learning what to do and what not to do. According to the description, we have three distinct learning options as follows  
 
 - **Supervised Learning**
 - **Unsupervised Learning**
