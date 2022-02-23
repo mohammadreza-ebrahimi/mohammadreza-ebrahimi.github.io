@@ -1,10 +1,10 @@
-### Curriculum Vitae
+### <span style="color:blue"> Curriculum Vitae </span>
 ***
 [Long CV](https://raw.githubusercontent.com/mohammadreza-ebrahimi/mohammadreza-ebrahimi.github.io/main/long-cv/long%20cv.pdf)
 
-### <span style="color:red">SKILLS</span>
+### <span style="color:blue"> SKILLS </span>
 
-**Programming** 
+### <span style="color:red"> Programming </span>
 - ***Python***
   - numpy
   - scipy
