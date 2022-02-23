@@ -2,7 +2,7 @@
 ***
 [Long CV](https://raw.githubusercontent.com/mohammadreza-ebrahimi/mohammadreza-ebrahimi.github.io/main/long-cv/long%20cv.pdf)
 
-### SKILLS
+### <span style="color:red">SKILLS</span>
 
 **Programming** 
 - ***Python***
