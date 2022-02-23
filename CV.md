@@ -32,7 +32,7 @@
 - Notebook: Jupyter-notebook
 - HTML & Markdown 
 
-**Machine Learning & Deep Learning**
+### <span style="color:red"> Machine Learning & Deep Learning </span>
 - Scikit-learn
 > A free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy. 
 - TensorFlow
@@ -40,7 +40,7 @@
 - PyTorch  
 > PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab. It is free and open-source software released under the Modified BSD license.
 
-**Data Analyze**  
+### <span style="color:red"> Data Analyze </span>  
 - ***Python***
   - NumPy
   > A library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. The ancestor of NumPy, Numeric, was originally created by Jim Hugunin with contributions from several other developers. In 2005, Travis Oliphant created NumPy by incorporating features of the competing Numarray into Numeric, with extensive modifications. NumPy is open-source software and has many contributors. 
@@ -52,7 +52,7 @@
   - ROOT-CERN
    > An open-source data analysis framework used by high energy physics and others. ROOT enables statistically sound scientific analyses and visualization of large amounts of data: today, more than 1 exabyte (1,000,000,000 gigabyte) are stored in ROOT files. The Higgs was found with ROOT!
 
-**Data Visualiziation**  
+### <span style="color:red"> Data Visualiziation </span>  
 - ***Python***  
   - Matplotlib
   > A plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. There is also a procedural "pylab" interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.SciPy makes use of Matplotlib. 
@@ -62,17 +62,17 @@
 - Mathematica
 
 
-**Version Control Systems (VCS)**  
+### <span style="color:red"> Version Control Systems (VCS) </span>  
 - Git/GitHub
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance.
 
 
-**Operating System**  
+### <span style="color:red"> Operating System </span>  
 - Linux/Unix
 - MacOS
 - Windows   
 
 
-- **Certificates**  
+### <span style="color:red"> Certificates </span>  
 ![MLHEP-certificate](img/cert_excellence_Mohammadreza_Ebrahimi_Khuzani_2021.png)
 ![git-certificate](img/git-certificate.png)  
