@@ -11,6 +11,7 @@
   - matplotlib
   - seaborn
   - pandas
+  - QuTiP
   - scikit-learn
   - tensorfow
   - PyTorch
