@@ -34,7 +34,7 @@ The Covid-19 epidemic presented me with a fantastic opportunity to gain more exp
 
 ***
 ### <font color='darkblue'>PUBLICATIONS</font> 
-After publishing in journals, I would complete this part, now it is private.
+ - M. Ebrahimi Khuzani, B. Mirza and M. Tavakoli Kachi, '(In press)' ,_"Thermodynamic Geometry of Pure Lovelock Black Holes"_, Int. J. Mod. Phys. D, (2022).
 
 ***
 ### <font color='darkblue'>RESEARCH EXPERIENCES</font> 
