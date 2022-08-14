@@ -13,7 +13,15 @@ goes on it becomes increasingly evident that the rules which the mathematician f
 [Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)
 
 ### <font color='darkblue'>ABOUT ME</font> 
-My name is Mohammadreza Ebrahimi Khuzani, and I was born in April 1995. I am currently 26 years old. **Particle physics and quantum field theory** master's student at the [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran, supervised by [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). With a GPA of 3.72/4.00, I am the **first** ranked student in my graduating class. My thesis is divided into two sections: black holes and cosmology. In the first section, I looked at the thermodynamic behavior and geometry of black holes. In the second section, I concentrated on anisotropic cosmology. During my thesis, I tried to develop my programming language in python and C++, since these programming languages are being promoted swiftly. Python and Artificial Intelligence are applied in almost every science, e.g. Biology, Physics, Economy, Politics, Biophysics, etc.  
+My name is Mohammadreza Ebrahimi Khuzani, and I was born in April 1995. I am currently 26 years old. I graduated with a master's degree in 
+**Particle physics and quantum field** from the [Isfahan University of Technology](https://english.iut.ac.ir) in Isfahan, Iran. My supervisor was
+ [Prof. Behrouz Mirza](https://mirza.iut.ac.ir/). I am the **first** ranked student in my graduating class with a GPA of 3.72/4.0. Despite of my main area of expertise, i.e., particle physics, 
+ my thesis is concentrated on black holes and theoretical comology. At very first part, I explored the thermodynamic behavior and geometry of black holes. We have several gravity theory that the
+most important one, is Einstein-Hilbert gravity. But, by proposing quantum gravity, other theories on gravity became valuable as well. One of them is **pure Lovelock** gravity theory that contains higher orther of curvature tensor, do not contain more than second-order derivative terms, and free of ghost fields. Hence, this theory is worthy to investigate. I assumed that
+we have a black holes in pure Lovelock gravity and tried to find its thermodynamic and critical behavior to compare it with a real thermodynamic system, e.g., Van der Waals fluid. Oure results,
+show that these black holes could be exist since it shows the same behavior with that of Van der waals fluid.  In the second section,
+ I concentrated on anisotropic cosmology. FRW universe is assumed to be homogenious and isotropic. I maitained homogenity property, but consider the universe to be anisotropic. During my thesis, I tried to develop my programming language in python and C++, since these programming languages are
+ being promoted swiftly. Python and Artificial Intelligence are applied in almost every science, e.g. Biology, Physics, Economy, Politics, Biophysics, etc.  
 
 ***
 ### <font color='darkblue'>CURRICULUM VITAE</font>  
