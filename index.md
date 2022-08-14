@@ -10,7 +10,8 @@ goes on it becomes increasingly evident that the rules which the mathematician f
  
 ***
 <h2>Mohammadreza <font color='gray'>Ebrahimi Khuzani</font></h2>  
-[Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)
+[Jump to my GiHub page](https://github.com/mohammadreza-ebrahimi)  
+![202236](img/202236.png)
 
 ### <font color='darkblue'>ABOUT ME</font> 
 My name is Mohammadreza Ebrahimi Khuzani, and I was born in April 1995. I am currently 26 years old. I graduated with a master's degree in **Particle physics and quantum field** from the [Isfahan University of Technology](https://english.iut.ac.ir), Isfahan, Iran. My supervisor was Prof. Behrouz Mirza. I am the first-ranked student in my graduating class with a GPA of 3.72/4.0. Notwithstanding my primary field of study, particle physics, my thesis focuses on black holes and theoretical cosmology.
