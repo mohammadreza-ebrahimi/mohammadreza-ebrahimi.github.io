@@ -15,6 +15,7 @@
   - scikit-learn
   - tensorfow
   - PyTorch
+  - PyRoot
   - sympy
   - einsteinpy
   - gravipy
