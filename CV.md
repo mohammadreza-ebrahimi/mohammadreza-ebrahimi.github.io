@@ -18,7 +18,7 @@
   - sympy
   - einsteinpy
   - gravipy
-- Object Oriented Programming
+- Object Oriented Programming (OOP)
 - C/C++
 - Shell & Bash scripting
 - ***Mathematica***
