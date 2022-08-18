@@ -67,7 +67,7 @@ You can discover general information about some of the most important experiment
 
 ***
 ### <font color='darkblue'>PUBLICATIONS</font> 
- - M. Ebrahimi Khuzani, B. Mirza and M. Tavakoli Kachi, '(In press)' ,_"Thermodynamic Geometry of Pure Lovelock Black Holes"_, Int. J. Mod. Phys. D, (2022).
+ - M. Ebrahimi Khuzani, B. Mirza and M. Tavakoli Kachi, '(In press)' ,_"Thermodynamic Geometry of Pure Lovelock Black Holes"_, Int. J. Mod. Phys. D, (2022).[arXiv:2208.06609](https://arxiv.org/abs/2208.06609)
 
 ***
 ### <font color='darkblue'>RESEARCH EXPERIENCES</font> 
