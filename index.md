@@ -42,7 +42,7 @@ You can find my CV and skills in [this page](CV.md)
 - Machine learning and Data analysis
   - A short trip to [Machine Learning](ML.md). After reading this page, I suggest you see my training portfolio [here](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training) so that start coding by various examples.
 - Eperimental High Energy Physics
-- Black holes and black holes thermodynamics
+- Quantum gravity, Black holes thermodynamics
 - Cosmology  
 
 ***
