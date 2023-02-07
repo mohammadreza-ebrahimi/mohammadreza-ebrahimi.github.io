@@ -52,11 +52,9 @@ My current field of expertise is focused on application of Artificial Intelligen
 
 Once a hit is received on a silicon-pad sensor, the collected ionization charge produces a short pulse. The signal will be amplified and shaped in the front-end ASIC, then a non-clocked digital output pulse will be produced which is transmitte to the lpGBT (Low Power GigaBit Transceiver, an ASIC widely used for data transmission and control in the Phase-2 projects) via flex cables called e-links. The lpGBT continuously samples the output signal of the front-end channels every 0.78 ns corresponding to the e-link speed (1.28 Gbps).
 Then the data will be sent to the back-end by versatile optical link transceivers (VTRx+). At the back-end, an ATCA (Advanced Telecommunications Computing Architecture) digital processing unit makes histogram of the number of hits per bunch-crossing per sensor and performs labeling the ToA and the ToT after synchronizing to the LHC clock. The timing information will be used for beam-induced background measurement. By counting the number of zero-hit occurrence, known as the zero-counting method, the hit rate and consequently, the luminosity will be calculated. The FBCM ASIC design is planed to be launched in early 2022, and it will make the best use of existing 65 nm electronic building blocks *.  
-
-
-
-
-
+[digitize](/img/digitize.png)  
+A simple diagram for only one channel shown the readout chain and data transmission. Each
+lpGBT supports 7 channels and each port card includes 3 lpGBTs. There will be four port cards per quarter.Thus, each quarter of the FBCM supports 84 channels, leading to 336 silicon-pad sensors for the FBCM.  
 . My previous research field scale is as large as the cosmos scale, in contrast to
 my major title. I study black holes, their thermodynamic behavior, and cosmology. We'd like to examine a variety of thermodynamic processes inside black holes, which are now regarded 
 thermodynamic systems following Stephen Hawking's discovery that the black hole functions as a thermodynamic system and defines Entropy in relation to its horizon area. In the study of 
@@ -122,7 +120,10 @@ Prof. Mehrdad Ghominejad, Semnan University, Fall 2016
   - [Introduction to Elementary Particles](https://www.amazon.com/Introduction-Elementary-Particles-David-Griffiths/dp/3527406018) by _David Griffiths_
   - [Modern Particle Physics](https://www.amazon.com/Modern-Particle-Physics-Mark-Thomson/dp/1107034264) by _Mark Thomson_  
  
-- After all, the best reference in order to start researching, is [arXiv.org](https://arXiv.org)
+- After all, the best reference in order to start researching, is [arXiv.org](https://arXiv.org)  
+
+### <font color='darkblue'>REFERENCES</font>  
+\* M. Sedghi, "_The Fast Beam Condition Monitor as standalone luminometer of the CMS experiment at the HL-LHC_", TWEPP 2021 Topical Workshop on Electronics for Particle Physics, **Online**, (Sep 2021)
 
 <!--- ### <font color='darkblue'>CONTACT</font> --->
 
