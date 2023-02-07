@@ -14,7 +14,7 @@ goes on it becomes increasingly evident that the rules which the mathematician f
 ![gitscreen](img/gitscreen.png)
 
 ### <font color='darkblue'>ABOUT ME</font> 
-My name is Mohammadreza Ebrahimi Khuzani, and I was born in April 1995. I am currently 26 years old. I graduated with a master's degree in **Particle physics and quantum field** from the [Isfahan University of Technology](https://english.iut.ac.ir), Isfahan, Iran. My supervisor was Prof. Behrouz Mirza. I am the first-ranked student in my graduating class with a GPA of 3.72/4.0. Notwithstanding my primary field of study, particle physics, my thesis focuses on black holes and theoretical cosmology.
+My name is Mohammadreza Ebrahimi Khuzani, and I was born in April 1995. I graduated with a master's degree in **Particle physics and quantum field** from the [Isfahan University of Technology](https://english.iut.ac.ir), Isfahan, Iran. My supervisor was Prof. Behrouz Mirza. I am the first-ranked student in my graduating class with a GPA of 3.72/4.0. Notwithstanding my primary field of study, particle physics, my thesis focuses on black holes and theoretical cosmology.
 In the first part, I explored black holes' thermodynamic behavior and geometry. We have several gravity theories. The most important one is Einstein-Hilbert gravity. 
 But, by proposing quantum gravity, other theories on gravity became valuable as well. One of them is pure Lovelock gravity theory which contains higher order of 
 curvature tensor, does not contain more than second-order derivative terms, and is free of ghost fields. Hence, this theory is worthy of investigation.
@@ -47,7 +47,11 @@ You can find my CV and skills in [this page](CV.md)
 
 ***
 ##### <font color='darkblue'>BRIEF EXPLANATION ON RESEARCHES</font> 
-My current field of expertise is focused on a material design by applying machine intelligence. My previous research field scale is as large as the cosmos scale, in contrast to
+My current field of expertise is focused on application of Artificial Intelligence (AI) and Machine Learning (ML) in electronics and data processing. Additionaly, I am working on simulation and construction of the **Fast Beam Condition Monitor (FBCM)**. At the CMS phase-2 upgrade, main goal is 1% uncertainty at measurement of the **luminosity** (*The number of events that an experiment observes is proportional to a quantity called the luminosity*). For this aim, the FBCM is being designed for online (real time) bounch-by-bounch measurement of the luminosity. FBCM device works indepently from CMS trigger.The ultimate goal of 1% luminosity uncertainty after final calibration requires a negligible statistical error on the calibration constant, the visible cross-section and a deviation from linear response of less than 0.02%/(Hz/𝜇b) up to an average pileup of 200. To meet this goal, the FBCM will utilize 336 silicon-pad sensors with a zero-counting algorithm of the observed hits and it will provide the time of arrival (ToA) and the time over threshold (ToT) of the signal pulses with a few ns resolution. The FBCM will have a semi-digital readout to transfer these data to the back-end, with the front-end chip producing a non-clocked output pulse upon the creation of an ionising signal in the silicon-pad sensor. *
+
+
+
+. My previous research field scale is as large as the cosmos scale, in contrast to
 my major title. I study black holes, their thermodynamic behavior, and cosmology. We'd like to examine a variety of thermodynamic processes inside black holes, which are now regarded 
 thermodynamic systems following Stephen Hawking's discovery that the black hole functions as a thermodynamic system and defines Entropy in relation to its horizon area. In the study of 
 thermodynamics, for example, a phase transition happens when a material changes its phase, such as from liquid to gas. This effect can also be observed in black holes. 
@@ -67,7 +71,7 @@ You can discover general information about some of the most important experiment
 
 ***
 ### <font color='darkblue'>PUBLICATIONS</font> 
- - M. Ebrahimi Khuzani, B. Mirza and M. Tavakoli Kachi, '(In press)' ,_"Thermodynamic Geometry of Pure Lovelock Black Holes"_, Int. J. Mod. Phys. D, (2022).[arXiv:2208.06609](https://arxiv.org/abs/2208.06609)
+ - M. Ebrahimi Khuzani, B. Mirza and M. Tavakoli Kachi,_"Thermodynamic Geometry of Pure Lovelock Black Holes"_, Int. J. Mod. Phys. D, **31**, 13 (2022).[arXiv:2208.06609](https://arxiv.org/abs/2208.06609)
 
 ***
 ### <font color='darkblue'>RESEARCH EXPERIENCES</font> 
